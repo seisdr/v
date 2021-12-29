@@ -1,0 +1,3536 @@
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+                                    Magnetic fields
+
+ A permanent magnet is a piece of ferromagnetic material (such as iron, nikel or cobalt)
+ which has properties of attracting other pieces of these materials. A permanent magnet will
+ position itself in a north and south direction when freely suspended. The north – seeking
+ end of the magnet is called the North Pole, N, and the south seeking end the South Pole, S.
+ The area around a magnet is called the magnetic field and it is in this area that the effects
+ of the magnetic force produced by the magnet can be detected. A magnetic field cannot be
+ seen, felt, smelt or head and therefore is difficult to represent. Michael Faraday suggested
+ that the magnetic field could be represented pictorially by imagining the field to consist of
+ lines of magnetic flux, which enables investigation of the distribution and density of the
+ field to be carried out.
+ The distribution of a magnetic field can be investigated by using some iron filings. A bar
+ magnet is placed on a flat surface covered by, say, cardboard, upon which is sprinkled
+ some iron filings. If the cardboard is gently tapped the filings will assume a pattern similar
+ to that shown in Figure (1). If a number of magnets of different strength are used, it is
+ found that the stronger the field the closer are the line of magnetic flux and vice versa.
+ Thus a magnetic field has the property of exerting a force, demonstrated in this case by
+ causing the iron filings to move into pattern shown. The strength of the magnetic field
+ decreases as we move away from the magnet. It should be realized, of course, that the
+ magnetic field is three dimensional in its effect, and not acting in one plane as appears to
+ be the case in this experiment.
+
+
+
+
+                                          Figure (1)
+
+ If a compass is placed in the magnetic field in various positions, the direction of the lines
+ of flux may be determined by noting the direction of the compass pointer. The direction of
+ a magnetic field at any point is taken as that in which the north-seeking pole of a compass
+                                              1
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ needle points when suspended in the field. The direction of a line of flux is form the north
+ pole to the south pole on the outside of the magnet and is then assumed to continue through
+ the magnet back to the point at which it emerged at the north pole. Thus such lines of flux
+ (1) always form complete closed loops or paths; (2) they never intersect and (3) always
+ have a definite direction.
+ The laws of magnetic attraction and repulsion can be demonstrated by using two bar
+ magnets. In Figure (2-a), with unlike adjacent, attraction takes place.
+ Lines of flux are imagined to contract and the magnets try to pull together. The magnetic
+ field is strongest in between the two magnets shown by the lines of flux being close
+ together. In Figure (2-b), with similar poles adjacent (i.e. two north poles), repulsion
+ occurs, i.e. the two north pole try to push each other a part, since magnetic flux line
+ running side by side in the same direction repel.
+
+
+
+
+                                            Figure (2)
+
+ Magnetic Flux and Flux Density
+ Magnetic flux is the amount of magnetic field (or the number of line of force) produced by
+ a magnetic source.
+ The symbol for magnetic flux is Φ (Greek letter, 'phi').
+ The unit of magnetic flux is the Weber, wb which equal to one hundred million line force.
+ Magnetic flux density is the amount of flux passing through a defined area that is
+ perpendicular to the direction of the flux:
+ Magnetic flux density  magnetic flux
+                                         area
+ The symbol of magnetic flux density is B. the unit of magnetic flux density is the tesla, T,
+ where
+                                                2
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ 1 T = 1 wb/m2. Hence
+      
+ B       tesla ………………….. (1)
+      A
+ Where A (m2) is the area.
+ Magnetic Field due to an Electric Current
+ Magnetic field can be setup not only by permanent magnets, but also by electric currents.
+ Let a piece of wire be arranged to pass vertically through a horizontal sheet of cardboard
+ on which is placed some iron filings, as shown in figure (3-a). If a current is now passed
+ through the wire, then the iron filings will form a definite circular field pattern with the
+ wire at the center, when the cardboard is gently tapped. By placing a compass indifferent
+ positions the lines of flux are seen to have a definite direction as shown in figure (3-b).
+
+
+
+
+                                           Figure (3)
+
+ If the current direction is reversed, the direction of the lines of flux is also reversed. The
+ effect on both the iron filings and the compass needle disappears when the current is
+ switched off. The magnetic field is thus produced by the electric current.
+ The magnetic flux produced has the same properties as the flux produced by a permanent
+ magnet. If the current is increased the strength of the filed increases and, as for the
+ permanent magnet, the field strength decreases as we move away from the current-
+ carrying conductor.
+ In Figure (3) the effect of a small part of the magnetic field is shown. If the whole length of
+ the conductor is similarly investigated it is found that the magnetic field round a straight
+ conductor is in the form of concentric cylinders as shown in Figure (4), the field direction
+ depending on the direction of the current flow.
+
+
+                                               3
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+
+
+                                         Figure (4)
+
+ When dealing with magnetic fields formed by electric current it is usual to portray the
+ effect as shown in figure (5). The convention adopted is:
+ i- Current flowing away from the viewer, i.e. into the paper, is indicated by  . This may
+ be thought of as the feathered end of the shaft of the arrow. See Figure (5-a)
+ ii- Current flowing towards the viewer, i.e. out of paper, is indicated by  . This may be
+ thought of as the point of an arrow. See Figure (5-b).
+
+
+
+
+                   (a) Current flowing away           (b) Current flowing
+                       from viewer                       towards viewer
+                                        Figure (5)
+
+ The direction of the magnetic lines of flux is best remembered by the screw rule which
+ states that:
+ If a normal right-hand thread screw is screwed along the conductor in the direction of the
+ current, the direction of rotation of the screw is in the direction of magnetic field.
+ For example with current flowing away from the viewer Figure (5-a) a right –hand thread
+ screw driven into the paper has to be rotated clock wise. Hence the direction of the
+ magnetic field is clock wise.
+ A magnetic field setup by a long coil, or solenoid, is shown in Figure (6-a) and is seen to
+ be similar to that of a bar magnet. If the solenoid is wound on an iron bar, as shown in
+
+                                             4
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ Figure (6-b), an even stronger magnetic field is produced, the iron becoming magnetized
+ and behaving like a permanent magnet. The direction of the magnetic field produced by the
+ current I in the solenoid may be found by either of two methods, i.e. the screw rule or the
+ grip rule.
+ a- The screw rule states that if a normal right-hand thread screw is placed along the axis of
+ the solenoid and is screwed in the direction of the current it moves in the direction of the
+ magnetic field inside the solenoid. The direction of the magnetic field inside the solenoid is
+ from south to north.
+ Thus in Figure (6-a&b) the north pole is to the right.
+ b- The grip rule states that if the coil is gripped with the right hand, with the fingers
+ pointing in the direction of the current, then the thumb, out stretched parallel to the axis of
+ the solenoid, point in the direction of the magnetic field inside the solenoid.
+
+
+
+
+            (a) Magnetic field of a solenoid          (b) magnetic field of an iron cored solenoid
+                                               Figure (6)
+
+ Magneto motive Force and Magnetic Field Strength
+ Magneto motive force (m.m.f) is the cause of the existence of a magnetic flux in a
+ magnetic circuit,
+ m.m. f .    Fm  NI       amperes
+ Where N is the number of conductor (or turns) and I is the current in amperes. The unit of
+ m.m.f. is sometimes expressed as 'ampere-turns'. However since 'turns' have no
+ dimensions, the S.I. unit of m.m.f is the ampere.
+ Magnetic field strength (or magnetic field intensity or magnetizing force),
+     NI
+ H         ampere per         meter
+       L
+ Where L is the mean length of the flux path in meters. Thus
+ m.m. f  NI  HL                amperes
+ Permeability and B-H curves
+
+
+                                                  5
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ For air, or any non-magnetic medium, the ratio of magnetic flux density to magnetizing
+ force is a constant, i.e. B/H=constant. This constant is  0 , the permeability of free space (or
+ the magnetic space constant) and is equal to 4  10 7 H/m, i.e. for air, or any non-magnetic
+ medium, the ratio
+  B
+      0 ………………………….. (2)
+  H
+ (Although all non-magnetic materials, including air, exhibit slight magnetic properties,
+ these can effectively be neglected)
+ For all media other than free space
+  B
+     0 r
+  H
+ Where  r is the relative permeability, and is defined as
+        flux density in material
+ r 
+         flux density in vacuum
+  r varies with the type of magnetic material and since it is a ratio of flux densities, it has
+ no unit. From its definition,  r for a vacuum is 1.
+ 0 r      Called the absolute permeability.
+ By plotting measured value of flux density B against magnetic field strength H , a
+ magnetization curve (or B  H curve) is produced. For non-magnetic materials this is
+ straight line. Typical curves for four magnetic materials are shown in Figure (7).
+ The relative permeability of a ferromagnetic material is proportional to the slope of the
+ B  H curve and thus varies with the magnetic field strength.
+
+
+
+
+                                                6
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+
+
+                                             Figure (7)
+ The four principal section of a typical magnetization curve are illustrated in Figure (7-a).
+ The curve is concave up for ''low'' values of magnetic field intensity, exhibits a somewhat
+ (but not always) linear characteristic for ''medium'' field intensities, and then is concave
+ down for ''high'' field intensities, eventually flattening to an almost horizontal line for ''very
+ high'' intensities. The part of the curve that is concave down is known as the knee of the
+ curve, and the ''flattened'' section is the saturation region. Magnetic saturation is complete
+ when all of the magnetic domains of the material are oriented in the direction of the
+ applied magneto motive force. Saturation begins at the start of the knee region and is
+ essentially complete when the curve starts to flatten.
+ Depending on the specific application, the magnetic core of an apparatus may be operated
+ in the linear region, and/or the saturation region. For example, transformers and AC
+ machines are operated in the linear region and lower end of the knee; self-excited DC
+ generator and DC motors are operated in the upper end of the knee region, extending into
+ the saturation region; separately excited DC generators are operated in the linear and lower
+ end of the knee region.
+ Magnetization curves supplied by manufacturers for specific electrical steel sheets or
+ casting are usually plotted on semi log paper, and often include a curve of relative
+ permeability vs. field intensity as shown in Figure (7-b).
+
+                                                7
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+
+
+                                      Figure (7-a)
+
+
+
+
+                                      Figure (7-b)
+
+
+
+
+                                           8
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ Magnetic Circuits
+ It is possible to analyze the operation of electromagnetic devices such as the one depicted
+ in Figure (8), the means of magnetic equivalent circuits, similar in many respects to the
+ equivalent electric circuits. Before we can present this technique, however, we need to
+ make a few simplifying approximations. The first of these approximations assumes that
+ there exists a mean path for the magnetic flux, and that the corresponding mean flux
+ density is approximately constant over the cross-sectional area of the magnetic structure.
+ Using equation (1) we see that a coil wound around a core with cross-sectional area A will
+ have flux density.
+      
+ B
+      A
+ Where A is assumed to be perpendicular to the direction of flux lines. Figure (8), illustrates
+ such a mean path and the cross-sectional area A . knowing the flux density, we obtain the
+ field intensity:
+      B       
+ H             …………………………… (3)
+             A
+ But then, knowing the field intensity, we can relate the m.m.f of the coil F to the product
+ of the magnetic field intensity H and the length of magnetic (mean) path L ; we can use
+ equation (2) and (3) to
+
+ F  Ni  HL …………………………… (4)
+
+
+
+
+                                          Figure (8)
+
+ In summary, the m.m.f. is equal to the magnetic flux times the length of the magnetic path,
+ divided by the permeability of the material times the cross-sectional area:
+           L
+ F         …………………………… (5)
+          A
+
+
+                                              9
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ A review of this formula reveal that the magneto motive force F may be viewed as being
+ analogous to the voltage source in a series electric circuit, and that the flux  is then
+                                                                           L
+ equivalent to the electric current in a series circuit and the term           to the magnetic
+                                                                          A
+                                                                              L
+ resistance of one leg of the magnetic circuit. You will note that the term      is very similar
+                                                                             A
+ to the term describing the resistance of a cylindrical conductor of length L and cross-
+                                                                                             L
+ section area A , where the permeability  is analogous to the conductivity  . The term
+                                                                                            A
+ occurs frequently enough to be assigned the name of reluctance and the symbol  it is the
+ (magnetic resistance) of a magnetic circuit to the presence of magnetic flux.
+      F       NI   HL      L       L
+                          
+                 BA    
+                         B
+                           H
+                              A 0 r A
+
+ The unit     of reluctance is 1 H or H 1   or A wb .
+ Ferromagnetic materials have a low reluctance and can be used as magnetic screens to
+ prevent magnetic field affecting materials within the screen.
+ In summary, when an N -turn coil carrying a current i wound around a magnetic core such
+ as the one indicated in Figure (8), the m.m.f., F generated by the coil produces a flux 
+ that is mostly concentrated within the core and is assumed to be uniform across the cross
+ section.
+ Within this simplified picture, then, the analysis of a magnetic circuit is analogous to that
+ of resistive electric circuits. This analogy illustrated in Table (1) and in the examples in
+ this section.
+
+ Table (1) Analogy between electric and magnetic circuits
+
+      Electric quantity                            Magnetic quantity
+      Electric field intensity E. V/m              Magnetic field intensity H . A-turns/m
+      Voltage v. V                                 Magneto motive force F . A-turns
+      Current i. A                                 Magnetic flux  . Wb
+      Current density J. A/m2                      Magnetic flux density B . Wb/m2
+      Resistance R,                               Reluctance  A-turns/Wb
+      Conductivity  . 1/  .m                     Permeability  . Wb/A.m
+
+ The usefulness of the magnetic circuit analogy can be emphasized by analyzing a magnetic
+ care similar to that of Figure (8), but with a slightly modified geometry. Figure (9), depicts
+ the magnetic structure and its equivalent-circuit analogy. In the figure, we see that the
+ m.m.f., F  NI excites the magnetic circuit, which is composed of four leg; two of mean
+ path length L1 and cross-sectional area A1  d1 w and the other two of mean length L2 and
+
+
+                                                     11
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ cross-sectional are A2  d 2 w . Thus, the reluctance en countered by the flux in its path
+ around the magnetic core is given by the quantity  series , with
+             series  21  2 2
+                      L1              L2
+ and          1        ,    2 
+                     A1             A2
+
+
+
+
+                                           Figure (9)
+
+ It is importance at this stage to review the assumptions and simplifications made in
+ analyzing the magnetic structure of figure (9).
+ 1- All the magnetic flux is linked by all the turns of the coil.
+ 2- The flux is confined exclusively within the magnetic core.
+ 3- The density of the flux is uniform across the cross-sectional area of the core
+ You can probably see intuitively that the first of these assumptions might not hold true near
+ the ends the coil, but that it might be more reasonable if the coil is tightly wound. The
+ second assumption is equivalent to stating that the relative permeability of the core is
+ infinitely higher than that of air (presuming that this is the medium surrounding the core);
+ if this were the case, the flux wound indeed be confined within the core. It is worthwhile to
+ note that we make a similar assumption when we treat wires in electric circuits as perfect
+ conductors: The conductivity of copper is substantially greater than that of free space by a
+ factor of approximately 1015. In the case of magnetic materials, however, even for the best
+ alloys, we have a relative permeability only on the order of 10 3 to 104. Thus, an
+ approximation that is quite appropriate for electric circuits is not nearly as good in the case
+ of magnetic circuits. Some of the flux in a structure such as those of Figure (8) and (9)
+ would thus not be confined within the core (this is usually referred to as leakage flux).
+ Finally, the assumption that the flux is uniform across the core cannot hold for a finite-
+ permeability medium, but it is very helpful in giving an approximate mean behavior of the
+ magnetic circuit.
+                                              11
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ Magnetic Circuit with Air gaps.
+ Consider the analysis of the some simple magnetic structure when an air gap is present. Air
+ gaps are very common in magnetic structure; in rotating machines; for example, air gaps
+ are necessary to allow for free rotation of the inner core of the machine. The magnetic
+ circuit of Figure (10-a) differs from the circuit analyzed in Figure (8) simple because of the
+ presence of an air gap; the effect of the gap is to break the continuity of the high-
+ permeability path for the flux, adding a high reluctance component to the equivalent
+ circuit. It should be evident from Figure (10-a) that the basic concept of reluctance still
+ applies, although now two different permeability's must be taken into account.
+ The equivalent circuit for the structure of Figure (10-a) may by drown as shown in
+ Figure(10-b) where  is the reluctance of path Ln , for n = 1,2,….,5 and  g is the
+ reluctance of the air gap. The reluctances can be expressed as follows, it we assume that
+ the magnetic structure has a uniform cross-section area A :
+          L1                   L2                  L3
+ 1              ,   2              ,    3 
+        r 0 A              r 0 A            r 0 A
+          L4                   L5                   
+ 4              ,   5                    g 
+        r 0 A              r 0 A               0 Ag
+
+
+
+
+                                                      Figure
+                                                   (10)
+ Not that in computing  g the length of the gap is given by  and the permeability is given
+ by  0 , as expected. But Ag is different from the cross-sectional area A of the structure.
+ This is so because the flux lines exhibit a phenomenon known as fringing (see figure
+ below) as they cross an air gap. The flux lines actually bow out of the gap defined by the
+ cross-sectional A , not being contained by the high-permeability material any longer. Thus
+ it is customary to define an area Ag that is greater than A , to account for this phenomenon.
+
+
+
+
+                                              12
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+
+
+                                          13
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+                               Hysteresis and hysteresis loss
+ Hysteresis loop:
+ Let a ferromagnetic material which is completely demagnetized, i.e. one in which
+  B  H  0 be subjected to increasing values of magnetic field strength H and the
+ corresponding flux density B measured. The resulting relationship between B and H is
+ shown by the curve oab in Figure (11). At a particular value of H , shown as oy, it becomes
+ difficult to increase the flux density any further. The material is said to be saturated. Thus
+ by is the saturation flux density.
+ If the value of H is now reduced it is found that the flux density follows curve bc. When H
+ is reduced to zero, flux remains in the iron. This remnant flux density is shown as oc in
+ Figure (11). When H is increased in the opposite
+ direction, the flux density decrease until at a value
+ shown as od, the flux density has been reduced to
+ zero. The magnetic field strength od required to
+ remove the residual magnetism, i.e. reduce B to
+ zero is called the coercive force.
+ Further increase of H in the reverse direction
+ causes the flux density to increase in the reverse
+ direction until saturation is reached as shown by
+ curve de. If H is varied backwards from ox to oy the
+ flux density follows the curve efgb, similar to curve
+ bcde.
+ It is seen from figure (11) that the flux density
+ changes lag behind the changes in the magnetic field
+ strength. This effect is called hysteresis. The closed
+  Figure bcdefgb is called the hysteresis loop (or the B H loop)         Figure (11)
+
+ Hysteresis loss
+ A disturbance in the alignment of the domains (i.e.
+ groups of atoms) of a ferromagnetic material
+ causes energy to be expended in taking it through a
+ cycle of magnetization. This energy appears as
+ heat in the specimen and is called the hysteresis
+ loss.
+ The power loss due to hysteresis for a given type                         remnant flux density
+
+ and volume of core material varies directly with
+ the frequency and the nth power of the maximum
+ value of the flux density wave.
+ Expressed mathematically,
+ Ph  k h . f .Bmax
+                n
+                    .v
+ Ph =   hysteresis loss (w)
+                                              14
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+  f = frequency of flux wave (Hz)
+ Bmax =  maximum value of flux density wave (T)
+  k h = constant
+ n =Steinmetz exponent
+ v =volume of core in m3
+ The Steinmetz exponent varies with the core material and has an average value of 1.6 for
+ silicon steel sheets.
+ The constant k h is dependent on the magnetic characteristics of the material.
+ The energy loss associated with hysteresis is proportional to the area of the hysteresis loop.
+ The area of a hysteresis loop varies with the type of material. The area, and thus the energy
+ loss, is much greater for hard materials than for soft materials.
+ 1- Hard magnetic material
+ Magnetic materials, which have large hysteresis loop area and hence large energy loss per
+ cycle of magnetization, are classified as hard magnetic materials. The magnetization curve
+ for hard magnetic materials is shown in Figure (12). Carbon steel, tungsten steel, cobalt
+ steel and hard ferrites are categorized as the hard magnetic materials. These materials are
+ suitable for making the instruments and devices, which require permanent magnets.
+ 2- Soft magnetic material
+ Some magnetic materials have steep magnetization curve as given in Figure (13). These
+ materials have relatively small and narrow hysteresis loop and hence small energy loss per
+ cycle of magnetization. These materials are called soft magnetic materials. Silicon steel,
+ nickel iron alloys and soft ferrites are the soft magnetic materials. These materials can be
+ used for the construction of cores of electrical machines, transformers, electromagnets,
+ reactors, relates etc.
+
+
+
+
+                   Figure (12)                              Figure (13)
+
+
+
+                                              15
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ Hysteresis losses caused by rotation
+ Hysteresis losses are also produced when a piece of iron rotates in a constant magnetic
+ field. Consider for example, an armature AB, made of iron that revolves in a field
+ produced by permanent magnets N S figure (14). The magnetic domains in the armature
+ tend to line up with the magnetic field, irrespective of the position of the armature.
+ Consequently, as the armature rotates, the N poles of the domains point first toward A and
+ then toward B. A complete reversal occurs therefore every half revolution, as can be seen
+ in figure (14-a, 14-b) consequently, the magnetic domains in the armature reverse
+ periodically, even though the magnetic field is constant. Hysteresis losses are produced just
+ as they are in an ac magnetic field.
+
+
+
+
+                   (a)                                        (b)
+                                     Figure (14)
+ Eddy currents
+ Consider an ac flux  that links a rectangular-shaped conductor Figure (16). According to
+ Faraday's law, an ac voltage E, is induced across it terminals.
+ If the conductor is short-circuited, a substantial alternating current I1, will flow, causing the
+ conductor to heat up. If a second conductor is placed inside the first, a smaller voltage is
+ induced because it links a smaller flux. Consequently, the short-circuit current I2 is less
+ than I1 and so, too, is the power dissipated in this loop. Figure (15) shows four such
+ concentric loops carrying currents I1, I2, I3 and I4.
+ The currents are progressively smaller as the area of loops surrounding the flux decreases.
+
+
+
+
+          Figure (15)                                            Figure (16)
+                                               16
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+
+ In figure (17) the ac flux passes through a solid metal plate. It is basically equivalent to a
+ densely packed set of rectangular conductors touching each other. Current swirl back and
+ forth inside the plate, following the paths shows in the figure. These so-called eddy current
+ (or Foucault currents) can be very large, due to the low resistance of the plate.
+ Consequently, a metal plate that is penetrated by an ac flux can become very hot. In this
+ regard, special core has to be taken in transformers so that stray leakage flux does not
+ cause sections of the enclosing tanks to overheat.
+ The flux  in figure (16&17) is assumed to be increasing. As a result, due to the Lenz's
+ law, the eddy currents flow in such a way as to oppose in the increasing flux.
+
+
+
+
+                                 Figure (17)
+
+ Eddy current in a stationary iron core
+ The eddy current problem becomes particularly important when iron has to carry an ac
+ flux. This is the cause in all ac motors and transformers. Figure (18) shows a coil carrying
+ an ac current that produces an ac flux in a solid iron core. Eddy currents are set up as
+ shown and they flow throughout the entire length of the core. A large core could eventually
+ because red hot due to these eddy-current losses.
+ We can reduce the losses by splitting the core in two along its length, taking care to
+ insulate the two sections from each other Figure (19). The voltage induced in each section
+ is one half of what it was before, with the result that the eddy currents, and the
+ corresponding losses, are considerably reduced. If we continue to subdivide the core, we
+ find that the losses decrease progressively. In practice, the core is composed of stacked
+ laminations, usually a fraction of a millimeter think. Furthermore, small amount of silicon
+ is alloyed with the steel to increase its resistively; there by reducing the losses still more
+ Figure (20).
+
+
+
+
+                                               17
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+
+
+                Figure (18)             Figure (19)                     Figure (20)
+ The cores of ac motors and generators are therefore always laminated. A thin coating of
+ insulation covers each lamination to prevent electrical contact between them. The stacked
+ laminations are tightly held in place by bolts and appropriate end-pieces. For a given core,
+ the eddy-current losses decrease in proportion to the square of the number of laminations.
+
+ Eddy-current losses in a revolving core
+ The stationary field in direct-current motors and generators produces a constant dc flux.
+ This constant flux induces eddy currents in the revolving armature. To understand how
+ they are induced, consider a solid cylindrical iron care that revolves between the poles of a
+ magnet Figure (21-a). As it turns, the core cuts flux lines and, according to Faraday's law, a
+ voltage is induced along its length having the polarities shown. Owing to this voltage, large
+ eddy currents flow in the core because its resistance is very low Figure (21-b).
+ These eddy currents produce large I2R losses which are immediately converted into heat.
+ The power loss is proportional to the square of the speed and the square of the density.
+ Eddy current loss is given by equation.
+ We  kBm2 f 2t 2V         watts
+ Where k is constant for a given material, B m is the peak value of the flux density, f is
+ supply frequency, t is the thickness of each stamping, and V is the volume of the core.
+ To reduce the eddy-current losses, we laminate the armature using thin circular laminations
+ that are insulated from each other. The laminations are tightly stacked with the flat side
+ running parallel to flux line Figure (22).
+
+
+
+
+                                              18
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+
+
+                     Figure (21)                           Figure (22)
+ 1 Part of a magnetic circuit is made from steel of length 120 mm, cross sectional area 15
+ cm2 and relative permeability 800. Calculate (a) the reluctance and (b) the absolute
+ permeability of the steel. [(a) 79580/H (b) 1 mH/m]
+
+ 2 A mild steel closed magnetic circuit has a mean length of 75 mm and a cross-sectional
+ area of 320.2mm2. A current of 0.40 A flows in a coil wound uniformly around the circuit
+ and the flux produced is 200mWb. If the relative permeability of the steel at this value of
+ current is 400 find (a) the reluctance of the material and (b) the number of turns of the coil.
+ [(a) 466000/H (b) 233]
+
+ 3 A magnetic circuit of cross-sectional area 0.4 cm2 consists of one part 3 cm long, of
+ material having relative permeability 1200, and a second part 2 cm long of material having
+ relative permeability 750. With a 100 turn coil carrying 2 A, find the value of flux existing
+ in the circuit. [0.195 m Wb]
+
+ 4 (a) A cast steel ring has a cross-sectional area of 600 mm2 and a radius of 25 mm.
+ Determine the m.m.f. necessary to establish a flux of 0.8 mWb in the ring. Use the B-H
+ curve for cast steel shown on Figure 7. (b) If a radial air gap 1.5 mm wide is cut in the ring
+ of part (a) find the m.m.f. now necessary to maintain the same flux in the ring. [(a) 270A
+ (b) 1860 A]
+
+
+
+                                              19
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ 5 A closed magnetic circuit made of silicon iron consists of a 40 mm long path of cross -
+ sectional area 90 mm2 and a 15 mm long path of cross-sectional area 70 mm2. A coil of 50
+ turns is wound around the 40 mm length of the circuit and a current of 0.39 A flows. Find
+ the flux density in the 15 mm length path if the relative permeability of the silicon iron at
+ this value of magnetizing force is 3000.
+ [1.59T]
+
+ 6 For the magnetic circuit shown in Figure below find the current I in the coil needed to
+ produce a flux of 0.45 m Wb in the air-gap. The silicon iron magnetic circuit has a uniform
+ cross - sectional area of 3 cm2 and its magnetization curve is as shown on
+ Figure (7) [0.83 A]
+
+
+
+
+ 7 A ring forming a magnetic circuit is made from two materials; one part is mild steel of
+ mean length 25 cm and cross-sectional area 4 cm2, and the remainder is cast iron of mean
+ length 20 cm and cross-sectional area 7.5 cm2. Use a tabular approach to determine the
+ total m.m.f. required to cause a flux of 0.30 mWb in the magnetic circuit. Find also the
+ total reluctance of the circuit. Use the magnetization curves shown on figure (7) . [550A,
+ 18.3 x 105/H]
+
+ 8 Figure below shows the magnetic circuit of a relay. When each of the air gaps are 1.5
+ mm wide find the m.m.f. required to produce a flux density of 0.75 T in the air gaps. Use
+ the B-H curves                                   shown on figure 7 [2970 A]
+
+
+
+
+                                             21
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ 9. A section through a magnetic circuit of uniform cross-sectional area 2 cm2 is shown in
+ figure below. The cast steel core has a mean length of 25 cm. The air gap is 1mm wide and
+ the coil has 5000 turns. The B–H curve for cast steel is shown on Figure (7). Determine the
+ current in the coil to produce a flux density of 0.80 T in the air gap, assuming that all the
+ flux passes through both parts of the magnetic circuit.[0165 A]
+
+
+
+
+                       Further problems on magnetic circuits
+
+ 1 What is the flux density in a magnetic field of cross-sectional area 20cm having a flux of
+ 3mWb? [1.5T]
+
+ 2 Determine the total flux emerging from a magnetic pole face having dimensions 5cm by
+ 6 cm, if the flux density is 0.9T [2.7mWb]
+
+ 3 The maximum working flux density of a lifting electromagnet is 1.9T and the effective
+ area of a pole face is circular in cross-section. If the total magnetic flux produced is 611
+ mWb determine the radius of the pole face. [32cm]
+
+ 4 An electromagnet of square cross-section produces a flux density of 0.45T .If the
+ magnetic fluxis720 µWb finds the dimensions of the Electromagnet cross-section. [4cm by
+ 4cm]
+
+ 5 Find the magnetic field strength applied to a magnetic circuit of mean length 50 cm when
+ a coil of 400 turns is applied to it carrying a current of 1.2A [960A/m]
+
+ 6 A solenoid 20 cm long is wound with 500 turns of wire. Find the current required to
+ establish a magnetizing force of 2500A/m inside the solenoid.[1A]
+
+ 7 A magnetic field strength of 5000A/m is applied to a circular magnetic circuit of mean
+ diameter 250 mm. If the coil has 500 turns find the current in the coil. [7.85A]
+
+
+                                             21
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+    Electromechanical Energy Conversion
+    The conversion of electrical energy into mechanical energy or vice versa is known
+    as electromechanical energy conversion.
+    Electromechanical energy conversion involves the interchange of energy between
+    an electrical system and a mechanical system through the medium of a coupling
+    electric field or magnetic field.
+    Therefore, an electromechanical conversion system has three essential parts viz., an
+    electrical system, a mechanical system and a coupling field (electric or magnetic)
+    figure (1) shows the block diagram of an electromechanical energy.
+
+
+
+
+                   Figure (1) Electromechanical Energy Conversion System
+
+   (i) Electric field as coupling medium. Electromechanical energy conversion can
+        take place when electric field is used as the medium.
+   (ii) Magnetic field as coupling medium. Electromechanical energy conversion can
+        also take place more effectively when magnetic field is used as medium
+
+    Energy Balance Equation
+    An electromechanical energy conversion system has three essential parts viz., an
+    electrical system, a mechanical system and a coupling magnetic field as shown in
+    figure (2). Since conversion of energy from one form into another form satisfies the
+    principle of conservation of energy, the energy transfer equation is as under:
+
+              Electrical energy     Mechanical        increase in energy        Energy
+         (                      )=(             )+(                          )+(        )
+             input from source     energy output    stored in coupling field     losses
+
+    Eq. (i) is applicable to all conversion devices. For motor action, the electrical and
+    mechanical energy terms have positive values. For generator action, the electrical
+    and mechanical energy terms have negative values.
+
+
+
+
+                                         Figure (2)
+
+                                             22
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+    During this energy conversion, energy loss occurs due to three causes viz., (i) i 2R
+    loss in the winding of the energy converter (ii) core or field loss due to changing
+    magnetic field and (iii) mechanical loss is the friction and windage loss due to the
+    motion of moving parts. All these losses are converted to heat. If the energy losses
+    in the electrical system, the coupling magnetic field and the mechanical system are
+    grouped with the corresponding terms in eq. (i) above, the energy balance equation
+    can be written as under:
+
+
+          Electrical energy  Mechanical energy        increase in stored
+         ( input minus ) = (output plus friction ) + ( field energy plus )                   (𝑖𝑖)
+          resistance losses and windage losses             core losses
+
+    Now consider a differential time 𝑑𝑡 during which an increment of electrical energy
+    𝑑𝑊𝑒𝑙𝑒𝑐𝑡 (excluding 𝑖 2 𝑅 loss) flows to the system. During this time 𝑑𝑡, let 𝑑𝑊𝑓𝑙𝑑 be
+    the energy supplied to the field (either stored or lost, or part stored and part lost)
+    and 𝑑𝑊𝑚𝑒𝑐ℎ the energy converted to mechanical form (in useful form or as loss, or
+    part useful and part as loss). In differential form, eq. (ii) can be expressed as
+                              𝑑𝑊𝑒𝑙𝑒𝑐𝑡 = 𝑑𝑊𝑚𝑒𝑐ℎ + 𝑑𝑊𝑓𝑙𝑑                      (𝑖𝑖𝑖)
+
+    If no mechanical work is down [i.e. 𝑑𝑊𝑚𝑒𝑐ℎ = 0], then eq. (iii) becomes:
+                                      𝑑𝑊𝑒𝑙𝑒𝑐𝑡 = 𝑑𝑊𝑓𝑙𝑑
+
+    In this case, electrical energy input is stored in the magnetic field (neglecting core
+    losses).
+
+    Energy In Magnetic System
+    Consider singly-excited magnetic system
+    shown in figure (3). It is the magnetic
+    system of an attracted armature relay.
+    Here a coil of N turns wound on the
+    magnetic core is connected to an electric
+    source. Let us assume that the armature is
+    held stationary at some air gap and the
+    current is increased from zero to some
+    value i. As a result, flux 𝜙 will be
+    established in the magnetic system.
+    Total flux linkages,                 𝜆 = 𝑁𝜙                       Figure (3)
+
+
+                                             23
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+                                           𝑁𝑑𝜙 𝑑        𝑑𝜆
+         induced e. m. f.             𝑒=       = (𝑁𝜙) =
+                                            𝑑𝑡  𝑑𝑡      𝑑𝑡
+    For the coupling device to absorb energy from the electric circuit, the coupling field
+    must produce a reaction in the circuit. This reaction is the e.m.f. e produced by the
+    magnetic field.
+    The incremental electrical energy (𝑑𝑊𝑒𝑙𝑒𝑐𝑡 ) due to the flow of current i in time dt is
+
+                                        𝑑𝑊𝑒𝑙𝑒𝑐𝑡 = 𝑒 𝑖 𝑑𝑡
+    The energy balance equation indifferent form is
+                                      𝑑𝑊𝑒𝑙𝑒𝑐𝑡 = 𝑑𝑊𝑚𝑒𝑐ℎ + 𝑑𝑊𝑓𝑙𝑑
+
+    Since we have assumed that the armature is held stationary, there is no mechanical
+    output i.e., 𝑑𝑊𝑚𝑒𝑐ℎ = 0. Therefore, all the increment electrical input energy is
+    stored as incremental field energy i.e.
+                                           𝑑𝑊𝑒𝑙𝑒𝑐𝑡 = 𝑑𝑊𝑓𝑙𝑑
+    or
+                                         𝑒 𝑖 𝑑𝑡 = 𝑑𝑊𝑓𝑙𝑑
+    or
+                                        𝑑𝜆
+                                           𝑖 𝑑𝑡 = 𝑑𝑊𝑓𝑙𝑑
+                                        𝑑𝑡
+    or
+                                   𝑑𝑊𝑓𝑙𝑑 = 𝑖 𝑑𝜆 = 𝑁 𝑖 𝑑𝜙
+
+    The relationship between coil flux linkage 𝜆 and current i for
+    a particular air gap length is shown in figure (4). The
+    incremental field energy 𝑑𝑊𝑓𝑙𝑑 is shown as crosshatched
+    area in this figure. When the flux linkage is increased from
+    zero to 𝜆 (or flux from zero to 𝜙), the energy stored in the
+    field is
+                                   𝜆            𝜙
+
+                            𝑊𝑓𝑙𝑑 = ∫ 𝑖𝑑𝜆 = 𝑁 ∫ 𝑖𝑑𝜙
+                                  0            0
+                                                                                    Figure (4)
+
+    The integral represents the area between the 𝜆 axis and 𝜆_𝑖 characteristic and is
+    equal to the entire shaded area shown in figure (4).
+    We can also derive another useful expression for the energy stored in the magnetic
+    field. If l and A are the length and cross-section of the magnetic circuit respectively
+    and B is the magnetic flux density, then,
+
+                                               24
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+                          𝑁𝑖 = 𝐻𝑙 𝑎𝑛𝑑 𝑑𝜙 = 𝐴 𝑑𝐵
+    Here H is the magnetic field intensity.
+
+
+                                        𝜙               𝐵          𝐵
+
+         ∴                  𝑊𝑓𝑙𝑑 = 𝑁 ∫ 𝑖𝑑𝜙 = ∫ 𝐻𝑙𝐴𝑑𝐵 = 𝐴𝑙 ∫ 𝐻𝑑𝐵
+                                       0            0             0
+
+                                           𝐵
+                                                                                    Figure (5)
+         𝑜𝑟                 𝑊𝑓𝑙𝑑 = 𝐴𝑙 ∫ 𝐻𝑑𝐵
+                                       0
+
+    Figure (5) shows B-H curve for magnetic circuit.
+    Energy and Coenergy
+    The 𝜆 − 𝑖 characteristic of an electromagnetic system depends on the air gap length
+    and B-H characteristic of the magnetic material. These 𝜆 − 𝑖 characteristics are
+    shown in figure (6) for three values of air gap length. If the air length is large, the
+    characteristic is essentially linear. The characteristic become nonlinear as the air gap
+    length decreases.
+
+
+
+
+                        Figure (6)                                     Figure (7)
+    For a particular value of air gap length, the energy stored in the field is represented
+    by the area A between the 𝜆-axis and the 𝜆 − 𝑖 curve as shown in figure (7). The
+    area B between the i-axis and the 𝜆 − 𝑖 curve is known as the coenergy and is
+    defined as:
+                                                        𝑖
+                                          ′
+                                        𝑊𝑓𝑙𝑑 = ∫ 𝜆 𝑑𝑖
+                                                    0
+
+
+
+                                               25
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+    This quantity has no physical significance. However, it can be used to find force
+    developed in an electromagnetic system. We use coenergy to determine force in
+    terms of the current i and energy to determine force in terms of flux linkage 𝜆 from
+    figure (7), we have,
+                                                  ′
+                                         𝑊𝑓𝑙𝑑 + 𝑊𝑓𝑙𝑑 =𝜆𝑖
+                                                   ′
+    If the 𝜆-i characteristic is linear, 𝑊𝑓𝑙𝑑 = 𝑊𝑓𝑙𝑑 . However, if 𝜆-i characteristic is non-
+               ′
+    linear, 𝑊𝑓𝑙𝑑 > 𝑊𝑓𝑙𝑑 .
+    Field Energy and Mechanical Force
+    Consider the electromagnetic system shown in figure (8). Let the current through
+    the coil be i when a voltage source v is applied across its terminals. The current i
+    sets up magnetic flux 𝜙 in the magnetic circuit. The flux linkages induce an e.m.f. e
+    in the coil.
+
+
+
+
+                                          Figure (8)
+    Suppose the movable part moves from one position (say x=x1) to another position
+    (x=x2) so that at the end of the movement, the air gap decreases. The 𝜆 − 𝑖
+    characteristics of the system for these two positions are shown in figure (9-i). note
+    that operating points of the system are a when x=x1 and b when x=x2. The current
+    𝑖 = (𝑣⁄𝑅) will remain the same at both the positions in the steady state.
+
+
+
+
+                     Figure (9-i)                             Figure (9-ii)
+                                              26
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+    If the movable part has moved slowly, the current has remained essentially constant
+    during the motion. Therefore, the operating point moves upward from point a to
+    point b as shown in figure (9-i).
+    During the motion,
+                                                𝜆2
+
+                       𝑑𝑊𝑒𝑙𝑒𝑐𝑡 = ∫ 𝑒 𝑖 𝑑𝑡 = ∫ 𝑖 𝑑𝜆 = 𝐴𝑟𝑒𝑎 𝑎𝑏𝑐𝑑
+                                               𝜆1
+
+
+                              𝑑𝑊𝑓𝑙𝑑 = 𝐴𝑟𝑒𝑎 𝑜𝑏𝑐 − 𝐴𝑟𝑒𝑎 𝑜𝑎𝑑
+    Now,
+                                𝑑𝑊𝑚𝑒𝑐ℎ = 𝑑𝑊𝑒𝑙𝑒𝑐𝑡 − 𝑑𝑊𝑓𝑙𝑑
+
+                                           = (𝐴𝑟𝑒𝑎 𝑎𝑏𝑐𝑑) − (𝐴𝑟𝑒𝑎 𝑜𝑏𝑐 − 𝐴𝑟𝑒𝑎 𝑜𝑎𝑑)
+
+                                         = 𝐴𝑟𝑒𝑎 𝑎𝑏𝑐𝑑 + 𝐴𝑟𝑒𝑎 𝑜𝑎𝑑 − 𝑎𝑟𝑒𝑎 𝑜𝑏𝑐
+
+                                          = 𝐴𝑟𝑒𝑎 𝑜𝑎𝑏
+
+    Thus if the motion occurs under constant-current conditions, the mechanical work
+    done (𝑑𝑊𝑚𝑒𝑐ℎ ) is represented by the shaded area in figure (9-i). in fact, this area is
+    the increase in the coenergy.
+                                                               ′
+         ∴                                    𝑑𝑊𝑚𝑒𝑐ℎ = 𝑑𝑊𝑓𝑙𝑑
+    If 𝑓𝑚 is the mechanical force causing the different displacement 𝑑𝑥, then,
+                                                     ′
+                                 𝑓𝑚 𝑑𝑥 = 𝑑𝑊𝑚𝑒𝑐ℎ = 𝑑𝑊𝑓𝑙𝑑
+                                                 ′
+                                              𝜕𝑊𝑓𝑙𝑑 (𝑖, 𝑥)
+         or                              𝑓𝑚 =              |                           (𝑖)
+                                                  𝜕𝑥         𝑖=constant
+
+    Lets us now consider that the movement has occurred very quickly. It may be
+    assumed that during the motion, the flux linkages have remained essentially as
+    shown in figure (9-ii). It can be shown that during the motion, the mechanical work
+    done is represented by the shaded area oap. In fact, this area is decrease in field
+    energy.
+         ∴                                  𝑓𝑚 𝑑𝑥 = 𝑑𝑊𝑚𝑒𝑐ℎ = −𝑑𝑊𝑓𝑙𝑑
+                                                      𝜕𝑊𝑓𝑙𝑑 (𝜆, 𝑥)
+         or                                    𝑓𝑚 =                |                   (𝑖𝑖)
+                                                         𝜕𝑥         𝜆=consyant
+
+    The following point may be noted from this analysis:
+                                              27
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+    (i)     Eqs. (i) and (ii) express the mechanical force of electrical origin in terms of
+                                                                               ′
+            partial derivatives of coenergy and energy functions vis. 𝑊𝑓𝑙𝑑        (𝑖, 𝑥) and
+            𝑊𝑓𝑙𝑑 (𝜆, 𝑥).
+    (ii)    In the limit when the differential displacement 𝑑𝑥 is small, the area oab in
+            figure (9-i) and area oap in figure (9-ii) will be essentially the same.
+            Therefore, the force computed from eq. (i) and eq. (ii) will be the same. The
+            selection of the energy or coenergy function as a basis for analysis is a matter
+            of convenience. The choice depends upon the initial description of the system
+            and the desired variables in the result.
+    (iii)   The algebraic signs in eq. (i) and (ii) show that the mechanical force acts in a
+            direction to increase the coenergy at constant current or to decreases the
+            magnetic field stored energy at constant flux.
+
+    Liner System
+    Refer back to the electromagnetic system shown un figure (8). If the reluctance of
+    the magnetic core path is negligible as compared to that of air gap path, then 𝜆-i
+    relation becomes linear.
+    For this idealized system, we have,
+
+                                           𝜆 = 𝐿(𝑥)𝑖
+
+    Where 𝐿(𝑥) is the inductance of the coil whose value depends on the air gap length
+    (x).
+    The field energy of the system is given by;
+                                                     𝜆
+
+                                         𝑊𝑓𝑙𝑑 = ∫ 𝑖 𝑑𝜆
+                                                    0
+                                                    𝜆
+                                                          𝜆                       𝜆
+                                              =∫              𝑑𝜆        (∵ 𝑖 =        )
+                                                         𝐿(𝑥)                    𝐿(𝑥)
+                                                 0
+
+                                  𝜆2     [𝐿(𝑥)𝑖]2 1
+                               =       =         = 𝐿(𝑥)𝑖 2
+                                 2𝐿(𝑥)    2𝐿(𝑥)   2
+
+    The mechanical force in terms of energy function is
+                                       𝜕   𝜆2
+                                 𝑓𝑚 = − (      )|
+                                       𝜕𝑥 2𝐿(𝑥) 𝜆=constant
+
+
+                                               28
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+                                          𝜆2 𝑑𝐿 (𝑥)
+                                       = 2
+                                        2𝐿 (𝑥) 𝑑𝑥
+
+                                      1 𝑑𝐿(𝑥)                                       𝜆2   1
+         ∴                        𝑓𝑚 = 𝑖 2                   (𝑖)                [∵      = 𝐿(𝑥)𝑖 2 ]
+                                      2    𝑑𝑥                                      2𝐿(𝑥) 2
+
+    For a linear system, energy and coenergy are equal i.e.,
+                                                  ′
+                                         𝑊𝑓𝑙𝑑 = 𝑊𝑓𝑙𝑑
+    ∴ Mechanical force in terms of coenergy function is
+                                       𝜕 1
+                                𝑓𝑚 =     ( 𝐿(𝑥)𝑖 2 )|
+                                       𝜕𝑥 2           𝑖=constant
+
+                                              1 𝑑𝐿(𝑥)
+         or                               𝑓𝑚 = 𝑖 2                                                 (𝑖)
+                                              2    𝑑𝑥
+    Eqs. (i) and (ii) show that the same expressions are obtained for force whether
+    analysis is based on energy or coenergy functions.
+    Another useful expression for 𝑓𝑚 . If the reluctance of the magnetic core path in
+    figure (8) is neglected, then,
+                                                       𝐵g
+                                       𝑁𝑖 = 𝐻g × 2g= × 2g
+                                                       𝜇𝑜
+    Energy stored in the field is given by;
+                                              𝐵g                   𝐵g
+                                                                        𝐵g
+                               𝑊𝑓𝑙𝑑 = 𝐴g 𝑙g ∫ 𝐻g 𝑑𝐵g = 𝐴g 𝑙g ∫             𝑑𝐵
+                                                                        𝜇𝑜 g
+                                              0                0
+
+         [Here lg and Ag are the length and area of air gap]
+                                 𝐵g2
+                               =     × volume of the air gap
+                                 2𝜇𝑜
+                                           𝐵g2
+                                         =     × 𝐴g × 2g                             (∵ 𝑙g = 2g)
+                                           2𝜇𝑜
+    ∴ Mechanical force in terms of energy function is
+                                      −𝜕 Bg2
+                                 𝑓𝑚 =   (    × 𝐴g × 2g)
+                                      𝜕g 2𝜇𝑜
+
+
+                                                  29
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+                                                    𝐵g2
+         or                                  𝑓𝑚 = −     (2𝐴g )
+                                                    2𝜇𝑜
+    note that total area of cross-section of the air gap is 2𝐴g .
+
+
+
+
+ Construction of D.C. Machines
+ A d.c. machine consists of the following essential parts:
+ 1- Yoke or magnetic frame.
+ 2- Poles:
+  i) Pole core
+  ii) Pole shoes
+ 3- Pole coils or field coils
+ 4- Armature core
+ 5- Armature windings or conductors
+ 6- Commutator
+ 7- Brushes and Bearings
+ A d.c. machine has a magnetic circuit and an electric circuit the magnetic circuit provides
+ the needed magnetic flux and consists of:
+ 1- Yoke
+ 2- Pole cores
+ 3- Armature core
+ 4- The air gaps between the pole and the armature
+ The electric circuit consists of:
+ 1- The armature winding
+ 2- The field coils
+ 3- The commutator
+ 4- The brushes.
+ Figure (23) shows the general
+ arrangement of the various parts of
+ a 4-pole d.c. machine
+ Stator = Yoke + Pole + Field
+ windings
+ Rotor = Armature + Commutatore
+
+ The Yoke:-
+ Yoke are normally made of cast
+ iron (in small machines) but (in
+
+                                               31
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ large machine) made of solid cast steel or roll steel is employed because of it has higher
+ permeability than cast iron. Yoke serves in:-
+ - forming part of the flux path
+ - Providing mechanical support for the poles
+ - Protecting the whole machine
+
+
+
+
+                        Figure (23)
+ Pole cores and pole shoes:-
+ The field magnets consist of pole cores and pole shoes there are two main types of pole
+ construction:
+ 1-Solid pole and laminated pole shoe.
+ 2-Laminated steel core and pole shoe.
+ Laminated construction is necessary because of the pulsations of field strength that result
+ when the notched armature rotor magnetic structure passes the pole shoe. Variations in
+ field strength result in internal eddy currents being generated in a magnetic structure.
+ The thickness of laminations varies from (0.25 mm to 1.5 mm) the laminated poles may be
+ secure to the yoke either by rivets or by steel bar. Pole shoes are fastened to the pole core
+ counter sunk screws
+ The pole shoes are used for:
+ -Provide mechanical support for the field coils.
+ -Reduce the reluctance of the magnetic circuit (magnetic path)
+           Reluctance  L
+                            A
+ Hence spread out the flux in the air gap and also being of large cross-section.
+ i.e the area is increased and the reluctance of the air gap is reduced
+ -Obtain better flux distribution.
+
+
+
+
+                                             31
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+
+ Pole coil (field coils)
+ Which consists of copper wire, the coils consist of certain number of turns wound around
+ the pole core to produce the magneto motive force (m.m.f) which yields the required flux.
+ The coils are wound in such a way that when current is passed in them they produce
+ opposite polarities in adjacent poles. Figure (24) shows the magnetic circuit and the
+ magnetic path.
+
+
+
+
+                                          Figure (24)
+ Shunt field
+ Where the armature and field windings are connected in
+ parallel. The field winding in these machines carries a
+ separated current, solely for the purpose of producing
+ excitation, so it is better to produce the required flux by
+ a small current and large number of turns in the field
+ winding. Thus in D.C. shunt machine, one normally
+ finds a large number of turns of thin wire on the poles.
+ The field winding resistance is very high.
+
+
+ Series field
+ This winding is connected series with the armature. It
+ use a few turns of heavy wire, because the field coil
+ carries the same current what the armature carries.
+ Resistance of this field winding is very small, normally
+
+                                               32
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ less than that of armature winding. Flux in this poles depends upon the load current in its
+ armature.
+
+
+ Compound field
+ When both the series and
+ shunt field connected with
+ the armature. The net field
+ in the pole is the algebraic
+ sum of these two fields. so
+ a compound machine can
+ be connected to make any
+ one of the following types.
+ i) Long shunt compound.
+ ii) Short shunt compound
+ short shunt compound           long shunt compound
+ The Air Gap
+ It is the space between the pole face and the armature core. It should be big enough to
+ allow safe mechanical rotation and small enough to minimize the reluctance of the
+ magnetic circuit. Usually 0.5 mm> lg >5mm
+
+ Armature Core
+ The armature has a cylindrical or drum shape and it is made of a stack of circular steel
+ laminations to reduce the eddy current loss.
+ It houses the armature conductors or coils and causes them to rotate and hence cut the
+ magnetic flux of the field magnets. In addition to this, its most important function is to
+ provide a path of very low reluctance to the flux through the armature from N- pole to P-
+ pole.
+ The laminations are punched to form slots and teeth parallel to the shaft. Cores of large
+ size machines may contain ventilating ducts (Ventilating channels) to improve the cooling
+ process.
+ The laminations are perforated for air ducts which permit axial flow of air through the
+ armature for cooling purposes.
+ Armature Windings
+ It is that part of the machine in which voltage is generated and torque is produced.
+ The windings are usually former – wound from insulated wire and placed in the slots of the
+ armature.
+ Each junction point between coils in connected to a commutator segment.
+
+
+
+
+                                            33
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+
+
+ Commutator
+ Its rectifies i.e converts the alternating current induced in the armature conductors into
+ unidirectional current in the external load circuit.
+ It has cylindrical structure and is built up of wedge- shape segments of high conductivity.
+ These segments are insulated from each other by thin layers mica.
+
+ No. of segments = No. of armature coils
+
+ Each commutator segment is connected
+ to the armature conductor by means of a
+ copper lag or strip.
+ The segments have V-grooves so that
+ they cannot fly out under the centrifugal
+ force. These grooves being insulated by
+ conical mica rings.
+
+
+
+ Brushes and Bearings
+ The brushes whose function is to collect
+ current from commutator. The brushes
+ are rectangular in shape and are made of
+ carbon or graphite.
+ Brushes at equal potential are connected
+ by internal wires. The current is led to or
+ from the brushes by flexible wires. The
+ brushes are held in contact with the
+ commutator by means of brush holders
+ and springs, whose tension may be
+
+                                               34
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ adjusted. Usually the brush holders are of the box type and it is always mounted on an
+ insulating material and attached to the stator frame.
+ The brush holder is located such that the brush always makes contact with a commutator
+ segment connected to a coil in which no voltage is induced.
+
+ Introduction to electromagnetic induction
+ When a conductor is moved across a magnetic field so as to cut through the lines of force
+ (or flux), an electromotive force (e.m.f.) is produced in the conductor. If the conductor
+ forms part of a closed circuit then the e.m.f. produced causes an electric current to flow
+ round the circuit. Hence an e.m.f. (and thus current) is 'induced' in the conductor as a result
+ of its movement across the magnetic field. This effect is known as 'electromagnetic
+ induction'
+
+ Figure (25.a) shows a coil of wire
+ connected to a centre-zero galvanometer,
+ which is a sensitive ammeter with the
+ zero-current position in the centre of the
+ scale.
+ (a) When the magnet is moved at
+ constant speed towards the coil (Figure
+ (25.a)), a deflection is noted on the
+ galvanometer showing that a current has
+ been produced in the coil.
+ (b) When the magnet is moved at the
+ same speed as in (a) but away from the
+ coil the same deflection is noted but is in
+ the opposite direction (see Figure (25.b))
+ (c) When the magnet is held stationary, even within the coil, no deflection is recorded.
+ (d) When the coil is moved at the same speed as in (a) and the magnet held stationary the
+ same galvanometer deflection is noted.
+ (e) When the relative speed is, say, doubled, the galvanometer deflection is doubled.
+ (f) When a stronger magnet is used, a greater galvanometer deflection is noted.
+ (g) When the number of turns of wire of the coil is increased, a greater galvanometer
+ deflection is noted.
+ Figure (25.c) shows the magnetic field associated with the magnet. As the magnet is
+ moved towards the coil, the magnetic flux of the magnet moves across, or cuts, the coil. It
+ is the relative movement of the magnetic flux and the coil that causes an e.m.f. and thus
+ current, to be induced in the coil. This effect is known as electromagnetic induction. The
+ laws of electromagnetic induction stated in section below evolved from experiments such
+ as those described above.
+
+
+                                              35
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ Laws of electromagnetic induction
+ Faraday's laws of electromagnetic induction state:
+ (i) An induced e.m.f is set up whenever the magnetic field linking that circuit changes.
+ (ii) The magnitude of the induced e. m.f in any circuit is proportional to the rate of change
+ of the magnetic flux linking the circuit.
+ Lenz's law states:
+ The direction of an induced e.m.f is
+ always such that it tends to set up a current
+ opposing the motion or the change of flux
+ responsible for inducing that e.m.f
+ An alternative method to Lenz's law of
+ determining relative directions is given by
+ Fleming's Right-hand rule (often called
+ the generator rule) which states:
+ Let the thumb first finger and second finger of the right hand
+ be extended such that they are all at right angles to each other
+ (as shown in Figure (26)). If the first finger points in the
+ direction of the magnetic field and the thumb points in the
+ direction of motion of the conductor relative to the magnetic
+ field, then the second finger will point in the direction of the
+ induced e.m.f
+ Summarizing:
+ First finger- Field
+ ThuMb – Motion                                  Figure (26)
+ SEcond finger - E.m.f
+ In a generator, conductors forming an electric circuit are
+ made to move through a magnetic field. By Faraday's law an
+ e.m.f. is induced in the conductors and thus a source of e.m.f is created. A generator
+ converts mechanical energy into electrical energy. The induced e.m.f. E set up between the
+ ends of the conductor shown in Figure (27) is given by:
+  E = B.l.v     volts
+ Where B. the flux density, is measured in teslas, l, the length of conductor in the
+ magnetic field is measured in meters, and v, the conductor velocity, is measured in meters
+ per second.
+
+ If the conductor moves at an angle  to the magnetic field (instead of at 90° as assumed
+ above) then
+
+     E = B.l.v sin (   volts
+
+
+
+                                             36
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+
+
+                                                                            Figure (27)
+
+ Generating an ac voltage
+ Irrelevant as it may seem. The study of a direct-current (dc) generator has to begin with
+ knowledge of the alternating-current (ac) generator. The reason is that the voltage
+ generated in any dc generator is inherently alternating and only becomes dc after it has
+ been rectified by the commutator.
+ Figure (28) shows an elementary ac-generator composed of a coil that revolves at 60 r/min
+ between the N. S poles of a permanent magnet. The rotation is due to an external driving
+ force, such as a motor (not shown). The coil is connected to two slip rings mounted on the
+ shaft. The slip rings are connected to an external load by means of two stationary brushes x
+ and y.
+
+
+
+
+                                          Figure (28)
+
+ As the coil rotates, a voltage is induced (e.m.f) between its terminals A and D. This voltage
+ appears between the brushes and, therefore, across the load. The voltage is generated
+ because the conductors of the coil cut across the flux produced by the N, S poles. The
+ induced voltage is therefore maximum (20 V. say) when the coil is momentarily in the
+ horizontal position, as shown. No flux is cut when the coil is momentarily in the vertical
+ position; consequently the voltage at these instants is zero. Another feature of the voltage is
+ that its polarity changes every time the coil makes half a turn. The voltage can therefore be
+ represented as a function of the angle of rotation Figure (29). The wave shape depends
+ upon the shape of the N, S poles. We assume the poles were designed to generate the
+ sinusoidal wave shown.
+ The coil in our example revolves at uniform speed; therefore each angle of rotation
+ corresponds to a specific interval of time. Because the coil makes one turn per second, the
+
+                                              37
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ angle of 3600 in Figure (29) corresponds to an interval of one second. Consequently, we
+ can also represent the induced voltage as a function of time Figure (30)
+
+
+
+
+                  Figure (29)                                   Figure (30)
+
+ Direct-current generator
+ If the brushes in Fig.(28) could be switched from one slip ring to the other every time the
+ polarity was about to change, we would obtain a voltage of constant polarity across the
+ load. Brush x would always be positive and brush y negative. We can obtain this result by
+ using a commutator Figure (31). A commutator in its simplest form is composed of a slip
+ ring that is cut in half, with each segment insulated from the other as well as from the shaft.
+ One segment is connected to coil-end
+ A and the other to coil-end D. The
+ commutator revolves with the coil and
+ the voltage between the segments is
+ picked up by two stationary brushes x
+ and y .
+ The voltage between brushes x and y
+ pulsates but never changes polarity
+ Figure (32).
+ The alternating voltage in the coil is
+ rectified by the commutator which acts
+ as a mechanical reversing switch.
+                                                               Figure (31)
+
+ Due to the constant polarity between the brushes, the current in the external load always
+ flows in the same direction. The machine represented in Figure (31) is called a direct-
+ current generator, or dynamo.
+
+
+
+
+                                              38
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+
+
+                                          Figure (32)
+
+ Difference between ac and dc generators
+ The elementary ac and dc generators in Figure (28) and (31) are essentially built the same
+ way. In each case, a coil rotates between the poles of a magnet and an ac voltage is induced
+ in the coil. The machines only differ in the way the coils are connected to the external
+ circuit Figure (33) ac generators carry slip rings Figure (33-b) while dc generators require a
+ commutator Figure (33-a). We sometimes build small machines which carry both slip rings
+ and a commutator Figure (33-c). Such machines can function simultaneously as ac and dc
+ generators
+
+
+
+
+                                          Figure (33)
+
+ Improving the wave shape
+ Returning to the dc generator, we can improve the pulsating dc voltage by using four coils
+ and four segments, as shown in Figure (34). The resulting wave shape is given in Figure
+ (35). The voltage still pulsates but it never falls to zero: it is much closer to a steady dc
+ voltage.
+
+
+
+
+                                              39
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ By increasing the number of coils and segments, we can obtain a dc voltage that is very
+ smooth. Modern dc generators produce voltages having a ripple of less than 5 percent. The
+ coils are lodged in the slots of a laminated iron cylinder. The coils and the cylinder
+ constitute the armature of the machine. The percent ripple is the ratio of the RMS value of
+ the ac component of voltage to the dc component, expressed in percent.
+
+
+
+
+                Figure (34)                                      Figure (35)
+
+ It is important to understand the physical meaning of Figure (34) because we will be using
+ similar drawings to explain the behavior of dc machines. The four coils in the figure are
+ identical to the coil shown in Figure (34).At the instant shown, coil A is not culling any
+ flux and neither is coil C. The reason is that the coil sides, of these two coils are midway
+ between the poles. On the other hand, coils B and D are cutting flux coming from the
+ center of the N and S poles. Consequently, the voltage induced in these coils is at its
+ maximum possible value (20 V, say). That is also the voltage across the brushes at this
+ particular instant.
+ A schematic diagram such as Figure (34) Tells us where the coil sides of the individual
+ coils are located: between the poles, under the poles, near the pole tips, and so on. But we
+ must remember that the coil sides (a1, a2, b1, b2, etc.) of each coil are actually located at
+ 1800 to each other and not side by side as Figure (34) seems to indicate.
+ The actual construction of this armature is shown in Figure (36). The four coils are placed
+ in four slots. Each coil has two coil sides, and so there are two coil sides per slot. Thus,
+ each slot contains the conductors of two coils.
+ For reasons of symmetry, the coils are wound so that one coil side is at the bottom of a slot
+ and the other is at the top. For example, in Figure (34) coil side a1 is in the top of slot 1,
+ while coil side a2 is in the bottom of slot 3. The coil connections to the commutator
+ segments are easy to follow in this simple armature. The reader should compare these
+
+                                              41
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ connections with those in Figure (36) to verify that they are the same, Note also the actual
+ position and schematic position of the brushes with respect to the poles.
+ Figure (37) shows the position of the coils when the armature has moved through 45°. The
+ sides’ a1, a2, of coil A are now sweeping past pole tip 1 and pole tip 4. The sides of coil C
+ are experiencing the same flux because they are in the same slots as coil A. Consequently,
+ the voltage ea induced in coil A is exactly the same as the voltage e c induced in coil C.
+ Note, however that coil A is moving downward, while coil C is moving upward, The
+ polarities of ea and ec are. Therefore, opposite as shown,
+ The same reasoning leads us to conclude that eb and ed are equal and opposite in polarity,
+ This means that ea + eb + ec + ed = 0 at all times, Consequently, no current will flow in the
+ closed loop formed by the four coils, This is most fortunate, because any such circulating
+ current would produce I2 R losses,
+ The voltage between the brushes is equal to eb + ec (or ea + ed) at the instant shown, It
+ corresponds to the minimum voltage shown in Figure (35)
+ The armature winding we have just discussed is called a lop winding. It is the most
+ common type of winding used in direct-current generators and motors.
+
+
+
+
+                Figure (36)                                      Figure (37)
+
+ Neutral zones
+ Neutral zones are those places on the surface of the armature where the flux density is zero.
+ When the generator operates at no-load, the neutral zones are located exactly between the
+ poles. No voltage is induced in a coil that cuts through the neutral zone. We always try to
+ set the brushes so they are in contact with coils that are momentarily in a neutral zone.
+
+
+
+
+                                             41
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+
+ Armature Winding Terms
+ The different terms related to armature windings are conductor, turn, coil, coil side,
+ overhang coil span etc. These terms are briefly described below.
+ (a) Conductor
+ The length of winding wire across the axial length of machine is called conductor as shown
+ in Figure (38).
+ Number of conductor = 2 × Number of turn
+ (b) Turn
+ A turn consists of two conductors’ accommodated in the armature slots approximately a
+ pole pitch apart as shown in Figure (38). If two conductors of a turn are placed in the slots
+ at a pole pitch apart, the resultant emf induced in the two conductors will be the sum of
+ emf’s induced in each conductor.
+ (c) Pole pitch or pole span
+ It is the distance between the centers of two adjacent poles and is equivalent to 180ed and is
+ measured in terms of number of slots i.e.
+                                                 𝑁𝑜. 𝑜𝑓 𝑠𝑙𝑜𝑡𝑠
+                                  𝑃𝑜𝑙𝑒 𝑃𝑖𝑡𝑐ℎ =
+                                                 𝑁𝑜. 𝑜𝑓 𝑝𝑜𝑙𝑒𝑠
+                                 One pole pitch = 180ed = 360md /p
+ (d) Coil
+ A coil consists of one or more turns. A coil with single turn is called single turn coil or
+ turn as in Figure.(38) and coil with more turns is called as multiturn coil or coil and several
+ connecting coils in series called winding as in Figure (38).
+
+
+
+
+                                  Figure (38)
+
+ (e) Coil Side
+ The coil has two sides. The two sides of a coil are placed in the different armature slots.
+ One side of a coil is placed in the upper portion of one slot and the other side is placed in
+ the lower portion of the other slot at a pole pitch apart in a double layer winding normally
+ used in d.c. machines. The coil side placed on upper portion of slot is known as upper coil
+ side and the coil side placed on lower portion of slot is known lower coil side.
+
+                                                42
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+  (f) Over Hang
+ The winding length required to connect the two conductors at the end of machine is known
+ as overhang of the winding.
+ (g) Coil Span or coil pitch (Ys)
+ The peripheral distance between two slots in which the two sides of a coil are placed is
+ called coil span. It is generally expressed in terms of number of slots or conductors. Thus if
+ the coil span is 9 slots, it means one side of the coil is in slot 1 and the other side in slot 10.
+ (h) Full Pitch Coil
+ When the two coil sides of a coil are placed in the slots over the periphery of armature
+ exactly a pole pitch apart then the coil is called full pitch coil. In full pitch coil, the coil
+ span is equal to the pole pitch of the machine. It means that coil span is 180 electrical
+ degrees. In this case, the coil sides lie under opposite poles, hence the induced e.m.f in
+ them are additive.
+ (i) Short Pitched or Chorded Coil
+ When the coil span is less than the pole pitch of the machine, the coil is called a chorded
+ coil or short pitched coil.
+ (j) Commutator Pitch
+ The number of commutator segments spanned from one end of a coil to the other end of the
+ same coil.
+ In figure (38-1), one side of the coil is connected to commutator segment 1 and the other
+ side connected to commutator segment 2. Therefore, the number of commutator segments
+ spanned by the coil is 1 i.e. YC =1 in figure (38-2), one side of the coil is connected to
+ commutator segment 1 and the other side to commutator segment 8. Therefore, the number
+ of commutator segments spanned by the coil = 8-1 = 7 segment i.e. YC = 7
+ For simplex lap winding, YC = 1
+ For simplex wave winding, YC ≃ 2 pole pitch (segments).
+
+
+
+
+               Figure (38-1)                             Figure (38-2)
+
+                                                43
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ Single Layer and Double Layer Winding
+ (a) Single Layer Winding
+ When the whole slot of the machine is accommodated by one side coil of only one coil, the
+ winding is known as single layer winding. Single layer winding is normally not used due to
+ commutation problems.
+ (b) Double Layer Winding
+ When upper portion of a slot (top layer and nearer to air gap) is occupied by the upper coil
+ side of a coil and the lower portion (bottom layer) of the same slot is occupied by the lower
+ coil side of another coil, winding is known as double layer winding. The two layers of the
+ windings in the same slot are insulated by an insulation strip' called separator. Double layer
+ windings are most commonly used in d.c. machines. It gives satisfactory arrangement of
+ end connections. For double layer winding, the number of armature slots is equal to the
+ number of coils in the armature winding. But in larger machines, the number of coils may
+ become larger and number of slots may be limited due to design considerations. In such
+ machines, the slot may accommodate two or more than two coil sides. The numbering of
+ conductors should be done in such a way that odd numbered conductors should occupy top
+ layers of the slot portion and even numbers should occupy the bottom layer of slot portion
+ Figure. (39) Shows the slots with 2, 4 and 6 conductors.
+
+
+
+
+                               Armature slots and conductors
+                              Figure (39) Winding arrangement
+
+
+ Types of Armature Winding
+ All the coils in one parallel path are connected in series and so the emfs induced in these
+ coils are added to get the resultant emf, which is equal to voltage rating of machine.
+ Generally, two types of windings are used in d.c. machines and they are lap winding and
+ wave winding.
+
+ (a) Lap winding
+ When end of a coil one is connected to the starting of the coil two like coil one is lapping
+ over the coil two. The other coils of the winding are connected in similar way to form a
+ closed winding. Since one coil is lapping over the next coil, the winding is known as lap
+ winding. Figure (40) shows a portion of lap winding with single turn coil. Coil a and b
+ consists of coil sides a1, a2 and b1 , b2 respectively. The end of coil side a2 is connected to
+ b1 which is under the same pole as the starting of coil a. Other coils of the winding are
+ connected in similar way and the end of the last coil is connected to the starting of the first
+ coil and closing the winding. The lap winding arrangement can be done by two way i.e.
+ - Simple lap winding and
+                                              44
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ - Duplex lap winding.
+
+
+
+
+          (a) Lap winding                         (b) Wave winding
+                            Figure (40) Lap and wave winding
+ Simple Lap winding: The armature lap winding, which forms only one closed circuit is
+ called simple lap winding. The commutator pitch of simple lap winding is unity. The
+ number of parallel circuits in simple lap winding (a) is equal to the number of poles (P) in
+ the machine. Generally, simple lap windings are being used in d.c. machines.
+ Number of parallel paths (a) = P = Number of brushes
+ Multiplex Lap Winding: Armature lap winding with several closed circuits is called
+ multiplex lap winding. It is used in the machines in which commutator pitch is ±2 and is
+ known as duplex lap winding. Thus a duplex lap winding have two closed circuits with the
+ parallel circuits equal to twice of parallel circuits in simplex lap winding. In case when
+ single lap winding is not suitable double lap winding is used. Since the numbers of parallel
+ paths are increasing in duplex lap winding, it may be used for heavy current machines.
+ Duplex lap windings are classified as singly re-entrant and double re-entrant. In singly re-
+ entrant the starting point is reached after the entire winding and in doubly re-entrant the
+ starting point is reached after one half of the winding. Duplex lap winding with odd
+ number of commutator bars are singly re-entrant and those with even number of
+ commutator bars are double re-entrant.
+
+ Number of parallel paths (a) = mP.
+
+ Where (m) is the multiplicity of the winding and (P) the number of poles.
+ (b) Wave Winding
+ Wave windings can be classified into single wave winding and multiplex wave winding.
+ Figure (40) shows a portion of wave winding with single turn coil with coils a and b. The
+ end a2 of coil a which lies in south pole is connected to b 1 the starting of coil b, which lies
+ in north pole. Other coils are connected in similar fashion.
+ Simple wave winding: Armature winding with wave winding and having only one closed
+ circuit is known as simple wave winding. The commutator pitch for simple wave winding
+ depends upon the number of poles and commutator segments. The number of parallel
+                                               45
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ circuits (parallel paths) in simple wave winding is always 2 irrespective of number of
+ poles.
+
+ Number of parallel paths (a) = 2.
+
+ Multiplex wave winding: Armature wave winding with several closed circuits is termed
+ as multiplex wave winding. In a multiplex wave winding after making one round of the
+ commutator, one arrives at the commutator segment which is away from the initial
+ segment by 2, 3, ... m segments, thus obtaining 2, 3 ... , m windings, each simple wave
+ winding.
+ Duplex winding equivalent to two simple wave winding is used in d.c. machines where
+ simplex-winding is not suitable. The number of parallel circuits (parallel path) in duplex
+ wave winding is always 4 irrespective of number of poles (double of parallel path in simple
+ wave winding).
+
+ Number of parallel paths = 2m
+
+ Where (m) is the multiplicity of the winding
+ Duplex wave winding is single re-entrant when commutator bars are odd and it is doubly
+ re-entrant if the commutator bars are even.
+ Winding Pitches
+ Different winding pitches are explained below.
+ Back Pitch (YB)
+ It is the distance measured in terms of armature conductors between the two side of a coil
+ at the back of the armature in figure (40) back pitch for lap and wave wound is shown. It is
+ denoted by YB for example, if a coil is formed by connecting conductor 1 (upper conductor
+ in a slot) to conductor 12 (bottom conductor in another slot) at the back of the armature,
+ then back pitch is YB = 12-1 = 11 conductors.
+ Front Pitch (YF)
+ Front pitch is the distance measured in terms of armature conductors between the end of a
+ coil (conductor) and the starting of the next coil (conductor) connected to the same
+ commutator segment as shown in figure (40). For example, if coil side 12 and coil side 3
+ are connected to the same commutator segment, then front pitch is Y F = 12 – 3 = 9
+ conductors.
+
+ Resultant Pitch (Y)
+ The distance ( measured in terms of armature conductors ) between the beginning of one
+ coil and the beginning of the next coil to which it is connected figure(40). It is denoted by
+ (Y or YR).therefore, the resultant pitch is the algebraic sum of the back and front pitches.
+
+
+
+                                             46
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ General rules for D.C. armature windings
+ i-   The back pitch (YB) as well as front pitch (YF) should be nearly equal to pole pitch.
+      This will result in increased e.m.f. in the coils.
+ ii-  Both pitches (YB and YF) should be odd. This will permit all end connections (back
+      as well as front connection) between a conductor at the top of a slot and one at the
+      bottom of a slot.
+ iii- The number of commutator segments is equal to the number of slots or coils (or half
+      the number of conductors).
+      No. of commutator segments = No. of slots = No. of coils
+ iv- The winding must close upon itself i.e., it should be closed circuit winding.
+
+ Relations between pitches for simplex lap winding
+ i-      The back and front pitches are odd and are of opposite signs. They differ
+         numerically by 2.
+                            ∴                   𝑌𝐵 = 𝑌𝐹 ± 2
+                                              𝑌𝐵 = 𝑌𝐹 + 2          for progressive winding
+                                               𝑌𝐵 = 𝑌𝐹 − 2         for retrogressive winding
+ ii-     Both YB and YF should be nearly equal to pole pitch.
+                              𝑌 +𝑌
+ iii- Average pitch 𝑌𝐴 = 𝐵 𝐹 . It equals pole pitch (= 𝑍⁄𝑃).
+                                2
+ iv- Commutator pitch, 𝑌𝐶 = ±1
+         𝑌𝐶 = +1 for progressive winding
+         𝑌𝐶 = −1 for retrogressive winding
+ v-      The resultant pitch (YR) in even, being the arithmetical difference of two odd
+         numbers viz., YB and YF.
+ vi- If Z = number of armature conductors and P = number of poles, then
+                       𝑍
+         Pole pitch =
+                       𝑃
+         Since YB and YF both must be about one pole pitch and differ numerically by 2,
+                                    𝑍
+                               𝑌𝐵 = + 1
+                                    𝑃    } 𝑓𝑜𝑟 𝑝𝑟𝑜𝑔𝑟𝑒𝑠𝑠𝑖𝑣𝑒 𝑤𝑖𝑛𝑑𝑖𝑛𝑔
+                                    𝑍
+                               𝑌𝐹 = − 1
+                                    𝑃
+                                   𝑍
+                              𝑌𝐵 = − 1
+                                   𝑃    } 𝑓𝑜𝑟 𝑟𝑒𝑡𝑟𝑜𝑔𝑟𝑒𝑠𝑠𝑖𝑣𝑒 𝑤𝑖𝑛𝑑𝑖𝑛𝑔
+                                   𝑍
+                              𝑌𝐹 = + 1
+                                   𝑃
+ It is clear that Z/P must be even number to make the winding possible.
+ Example
+ A 4-pole, simplex lap – wound armature contains 16 slots and has two coil sides per slot.
+ Find back pitch, front pitch and commutator pitch for (i) progressive winding
+ (ii) retrogressive winding.
+
+                                            47
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+
+
+ Solution
+              𝑍   16×2
+ Pole pitch = =        = 8 conductors
+              𝑃     4
+ (i)   For progressive winding
+                        𝑍
+       Back pitch, 𝑌𝐵 = + 1 = 8 + 1 = 9 conductors.
+                          𝑃
+                          𝑍
+        Front pitch,𝑌𝐹 = − 1 = 8 − 1 = 7 conductors
+                         𝑃
+        Commutator pitch, 𝑌𝐶 = +1 segment
+ (ii)   For retrogressive winding
+                          𝑍
+        Back pitch, 𝑌𝐵 = − 1 = 8 − 1 = 7 conductors.
+                          𝑃
+                          𝑍
+        Front pitch,𝑌𝐹 = + 1 = 8 + 1 = 9 conductors
+                        𝑃
+        Commutator pitch, 𝑌𝐶 = −1 segment
+
+ Example
+ Design a 4-pole, simplex lap winding suitable for an armature containing 20 slot. Assume
+ single turn coils with 2 conductors per slot.
+ Solution
+ Number of commutator segments = number of slots =20
+ Number of armature coils = number of slots = 20
+ Number of armature conductors = 2×20 = 40
+               𝑍    40
+ Pole pitch = = = 10 conductors
+               𝑃     4
+ Let us design the progressive lap winding. For progressive winding:
+                          𝑍
+        Back pitch, 𝑌𝐵 = + 1 = 10 + 1 = 11 conductors.
+                          𝑃
+                          𝑍
+       Front pitch,𝑌𝐹 = − 1 = 10 − 1 = 9 conductors
+                       𝑃
+ Figure below shows the winding table
+
+ Back connections                                       front connections
+ 1 to ( 1 + 11 ) = 12            ⟶                      12 to ( 12 – 9 ) = 3
+ 3 to ( 3+ 11 ) = 14             ⟶                      14 to ( 14 – 9 ) = 5
+ 5 to ( 5 + 11 ) = 16            ⟶                      16 to ( 16 – 9 ) = 7
+ 7 to ( 7 + 11 ) = 18            ⟶
+                        18 to ( 18 - 9 ) = 9
+ ………………………………………………………………………….
+ ………………………………………………………………………….
+ ………………………………………………………………………….
+ 29 to ( 29 + 11 ) = 40                      ⟶          40 to ( 40 – 9 ) = 31
+
+                                           48
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ 31 to ( 31 + 11 ) = 42 = ( 42 – 40 ) = 2       ⟶            2 to (42-9)=33
+ 33 to ( 33 + 11 ) = 44 = ( 44 – 40 ) = 4       ⟶            4 to (44-9)=35
+ 35 to ( 35 + 11 ) = 46 = ( 46 – 40 ) = 6       ⟶                 6 to ( 46 – 9 ) = 37
+ 37 to ( 37 + 11 ) = 48 = ( 48 – 40 ) = 8       ⟶                 8 to ( 48 – 9 ) = 39
+ 39 to ( 39 + 11 ) = 50 = ( 50 – 40 ) = 10      ⟶                 10 to ( 10 – 9 ) = 1
+
+
+
+
+ Note that last conductor 10 joins to the free end of conductor 1 at which the winding
+ started. Therefore, the winding closes upon itself.
+ Developed diagram. Developed diagram is obtained by imagining the cylindrical surface
+ of the armature to be cut by an axial plane and then flattened out. Figure (41) shows the
+ developed diagram of the winding. Note that full lines represent the top coil sides (or
+ conductors and dotted lines represent the bottom coil sides (or conductors).
+ The winding goes from commutator segment 1 by conductor 1 across the back to
+ conductor 12 and at the front to commutator segment 2, thus forming a coil. Then from
+ commutator segment 2, through conductors 3 and 14 back to commutator 3 and so on till
+ the winding returns to commutator segment 1 after using all the 40 conductors.
+ Position and number of brushes. We now turn to fined the position and the number of
+ brushes required. The brushes, like field poles, remain fixed in space as the commutator
+ and winding revolve. It is very important that brushes are in correct position relative to the
+ field poles. The arrowhead marked “rotation” in figure (41) shows the direction of motion
+ of the conductors. By right-hand rule, the direction of e.m.f. in each conductor will be as
+ shown.
+ In order to find the position of brushes, the ring diagram shown in figure (42) is quite
+ helpful. A positive brush will be placed on that commutator segment where the currents in
+ the coil are meeting to flow out of the segment. A negative brush will be placed on that
+ commutator segment where the currents the coils are meeting to flow in referring to figure
+ (41) there four brushes-two positive and two negative. Therefore, we arrive at a very
+ important conclusion that in a simplex lap winding, the number of brushes is equal to the
+ number of poles. If the brushes of the same polarity are connected together, then all the
+ armature conductors are connected in four parallel paths; each path containing an equal
+ number of conductors in series. This is illustrated in figure (43)
+
+                                              49
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ Since segments 6 and 16 are connected together through positive brushes and segments 11
+ and 1 connected together through negative brushes, there are four parallel paths, each
+ containing 10 conductors in series. Therefore, in simples lap winding, the number of
+ parallel paths is equal to the number of poles.
+
+
+
+
+                                          51
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+
+
+                                          51
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+
+
+                   Figure (41)                                      Figure (42)
+
+                                         Figure (43)
+
+ Relations between pitches for wave winding
+ i-    The distance measured in terms of armature conductors between the two sides of a
+       coil at the back of the armature is called back pitch YB figure (40). The YB must be
+       an odd integer so that a top conductor and a bottom conductor will be joined.
+ ii-   The distance measured in terms of armature conductor between the coil sides
+       attached to any one commutator segment is called front pitch YF figure (40). The YF
+       must be an odd integer so that a top conductor and a bottom conductor will be
+       joined.
+ iii- Resultant pitch, YR = YB + YF figure (40)
+       The resultant pitch must be an even integer since Y B and YF are odd. Further YR is
+       approximately two pole pitch because YB as well as YF is approximately one pole
+       pitch
+                              𝑌 +𝑌
+ iv- Average pitch, 𝑌𝐴 = 𝐵 𝐹
+                                2
+       When one tour of armature has been completed, the winding should connect to the
+       next top conductor (progressive) or to the preceding top conductor (retrogressive). In
+       either case, the difference will be of 2 conductors or one slot. If P is the number of
+       poles and Z is the total number of armature conductors, then,
+                                  𝑃 × 𝑌𝐴 = 𝑍 ± 2                  (𝑖)
+                                     𝑍±2
+       or                       𝑌𝐴 =
+                                       𝑃
+       since P is always even and 𝑍 = 𝑃𝑌𝐴 ± 2, Z must be even. It means 𝑍 ± 2⁄𝑃 must be
+       an integer. In eq. (i), plus sign will give progressive winding and the negative sign
+       retrogressive winding.
+ v-    The number of commutator segment spanned by a coil is called commutator pitch
+       (YC) figure (40). Suppose in a simplex wave winding,
+       P = number of poles; NC = number of commutator segments: YC = commutator pitch
+       ∴ number of pair of poles = P/2
+ If YC× P/2 = NC, then the winding will close on itself in passing once around the armature.
+ In order to connect to the adjacent conductor and permit the winding to proceed,
+
+
+                                             52
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+                                               𝑃
+                                        𝑌𝐶 ×     = 𝑁𝐶 ± 1
+                                               2
+                         2𝑁𝑐 ± 2 𝑁𝐶 ± 1 𝑁𝑜. 𝑜𝑓 𝑐𝑜𝑚𝑚𝑢𝑡𝑎𝑡𝑜𝑟 𝑠𝑒𝑔. ±1
+                  𝑌𝐶 =          =      =
+                           𝑃      𝑃 ⁄2   𝑁𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑝𝑎𝑖𝑟 𝑜𝑓 𝑝𝑜𝑙𝑒𝑠
+                                        2𝑁𝐶 ± 2 𝑍 ± 2
+                                 𝑌𝐶 =          =      = 𝑌𝐴
+                                          𝑃       𝑃
+                                                                           𝑌𝐵 + 𝑌𝐹
+                ∴                   𝐶𝑜𝑚𝑚𝑢𝑡𝑎𝑡𝑜𝑟 𝑝𝑖𝑡𝑐ℎ, 𝑌𝐶 = 𝑌𝐴 =
+                                                                              2
+ In simples wave winding YB, YF and YC may be equal. Note that YB, YF and YA are in
+ terms of armature conductors where as YC is in terms of commutator segments.
+
+ Design of simplex wave winding
+ i-   Both pitch YB and YF are odd and are of the same sign.
+                             𝑍±2
+ ii-  𝑎𝑣𝑒𝑟𝑎𝑔𝑒 𝑝𝑖𝑡𝑐ℎ, 𝑌𝐴 =
+                               𝑃
+ iii- Both YB and YF are nearly equal to pole pitch and may be equal or differ by 2. If
+      they differ by 2, they are one more and one less than YA.
+ iv- Commutator pitch is given by;
+                                  𝑁𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑐𝑜𝑚𝑚𝑢𝑡𝑎𝑡𝑜𝑟 𝑠𝑒𝑔𝑚𝑒𝑛𝑡 ± 1
+                       𝑌𝐶 = 𝑌𝐴 =
+                                         𝑁𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑝𝑎𝑖𝑟 𝑜𝑓 𝑝𝑜𝑙𝑒𝑠
+      The plus sign of progressive winding and negative for retrogressive winding.
+             𝑍±2
+ v-   𝑌𝐴 =
+              𝑃
+      Since YA must be a whole number, there is a restriction on the value of Z. With
+      Z=180, this winding is impossible for a 4-pole machine because YA is not a whole
+      number.
+ vi- 𝑍 = 𝑃𝑌𝐴 ± 2
+                                                                𝑍 𝑃𝑌𝐴 ± 2
+                   ∴                       𝑁𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑐𝑜𝑖𝑙𝑠 = =
+                                                                2       2
+ vii- The even number of coils are not used for wave winding
+
+ Example
+ A 4-pole armature has 30 armature conductors. The armature is to be simplex wave-wind
+ with single-turn coils. Determine for a retrogressive winding (i) back pitch (ii) front pitch
+ (iii) commutator pitch.
+ Solution
+                             𝑍±2
+ (i)     Average pitch, 𝑌𝐴 =
+                             𝑃
+                                           𝑍−2          30−2
+       For a retrogressive winding, 𝑌𝐴 =            =          = 7 conductors
+                                               𝑃         4
+
+
+                                                   53
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+         ∴                            𝑌𝐵 = 7 conductors
+                𝑌𝐵 +𝑌𝐹
+ (ii)    𝑌𝐴 =
+                  2
+                           7+𝑌𝐹
+         or           7=              ∴       𝑌𝐹 = 7 conductors
+                            2
+
+ (iii)   YC = YA = 7 conductor segments
+         Alternatively, for a retrogressive winding,
+                         𝑁𝑜. 𝑜𝑓 𝑐𝑜𝑚𝑚𝑢𝑡𝑎𝑡𝑜𝑟 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑠 − 1 15 − 1
+                  𝑌𝐶 =                                 =       = 7 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑠
+                                𝑁𝑜. 𝑜𝑓 𝑝𝑎𝑖𝑟 𝑜𝑓 𝑝𝑜𝑙𝑒𝑠      2
+
+ Example
+ A 4-pole, simple wave-wound armature has 21 slots and 21 segments. Determine the
+ commutator pitch.
+ Solution
+                        2𝑁 ±2  2×21±2
+ 𝑐𝑜𝑚𝑚𝑢𝑡𝑎𝑡𝑜𝑟 𝑝𝑖𝑡𝑐ℎ, 𝑌𝐶 = 𝐶 =           = 10 𝑜𝑟 11 𝑐𝑜𝑚𝑚𝑢𝑡𝑎𝑡𝑜𝑟 𝑠𝑒𝑔𝑚𝑒𝑛𝑡
+                                  𝑃       4
+
+ Example
+ Design a 4-pole wave winding for an armature with 21 slots. Assume single turn coils and
+ two conductors per slot.
+ Solution
+                     𝑧±2    42±2
+ Average pitch, 𝑌𝐴 =      =      = 11 𝑐𝑜𝑛𝑑𝑢𝑐𝑡𝑜𝑟𝑠
+                      𝑃       4
+ We have taken +2 on the assumption that progressive winding is desired. Since Y B is
+ whole number, the wave winding is possible. Taking YB = 11 conductors, we have YF = 11
+ conductors. commutator pitch, YC = YA = 11 segments
+ Winding table
+ The winding table for the winding is given below:
+ Back connections                                      front connections
+ 1 to ( 1 + 11 ) = 12                         ⟶                       12 to ( 12 + 11 ) = 23
+ 23 to ( 23 + 11 ) = 34                       ⟶        34 to ( 34 + 11 ) = 45 = 45 – 42 = 3
+ 3 to ( 3 + 11 ) = 14                         ⟶                       14 to ( 14 + 11 ) = 25
+ 25 to ( 25 + 11 ) = 36                       ⟶
+                        36 to ( 36 + 11 ) = 47 = 47 – 42 = 5
+ …………………………………………….………………………………………
+ ……………………………………………………….……………………………
+ ………………………………………………………………….…………………
+ 19 to ( 19 + 11 ) = 30                       ⟶                       30 to ( 30 + 11 ) = 41
+ 41 to ( 41 + 11 ) = 52 = 52 – 42 = 10        ⟶                       10 to ( 10 + 11 ) = 21
+
+                                               54
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ 21 to ( 21 + 11 ) = 32                    ⟶         32 to ( 32 + 11 ) = 43 = 43 – 42 = 1
+
+ Since we have come back to conductor No. 1 from where we started, the winding gets
+ closed at this stage.
+
+ Develop diagram. Figure (45) shows the developed diagram for the winding. Note that
+ full lines represent the top coil sides (or conductors and dotted lines represent the bottom
+ coil sides (or conductors). The two conductors which lie in the same slot are drawn near to
+ each other than to those in the other slots.
+ Referring to figure (45), conductor 1 connects at the back to conductor 12 (1+11) which in
+ Turn connects at the front to conductor 23 (12+11) and so on round the armature until the
+ winding is complete. Note that the commutator pitch Y C = 11 segments. This means that
+ the number of commutator segment spanned between the start end and finish end of any
+ coil in 11 segments.
+ Position and number of brushes. We now turn to find the position and the number of
+ brushes. The arrowhead marked “rotation” in figure (45) shows the direction of motion of
+ the conductors. By right hand rule, the direction of e.m.f. in each conductor will be as
+ shown.
+ On order to find the position of brushes, the ring diagram shown in figure (46) is quite
+ helpful. It is clear that only two brushes (one positive and one negative) required (though
+ two positive and two negative brushes can also be used). We find that there are two parallel
+ paths between the positive brush and the negative brush. This is illustrated in figure (44)
+ therefore, we arrive at a very important conclusion that in simplex wave winding, the
+ number of parallel paths is two irrespective of the number of poles. Note that the first
+ parallel path has 11 coils (or 22 conductors while the second parallel path has 10 coils (or
+ 20 conductors). This fact is not important as it may appear at first glance. The coils in the
+ smaller group should supply less current to the external circuit. But the identity of the coils
+ in either parallel path is rapidly changing from moment to moment. Therefore, the average
+ value of current through any particular coil is the same.
+
+
+
+
+                                          Figure (44)
+                                              55
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+
+
+                                          56
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+                          Figure (45)                                  Figure (46)
+ Dummy coil in wave. Winding
+ Sometimes an armature of standard stampings is to be wound in wave windings but the
+ number of slots does not fulfill the conditions of wave winding, so instead of leaving any
+ slot vacant, a coil is inserted onto it. This additional coil is known as dummy coil.
+ This coil is used on the proper place to maintain the mechanical balance of the armature.
+ This coil is completely insulated from other coils. If it is possible, the dummy coil should
+ not be used because it creates unbalance effect on the armature.
+ e.g.           suppose No. of poles               =4
+                No. of armature slots              = 65
+                No. of conductor per slot           =4
+ Now            Total coil sides (conductor)         = 65×4 = 260
+                                                     260±2         1      1
+ Average pitch                                     =       = 65 𝑜𝑟 64
+                                                        4         2       2
+ But the average pitch should be an integer. This winding is not possible with 260
+ conductors because in 65 slots, we cannot insert more than 260 conductors.
+ Now if we take coil sides or conductors = 258
+                                               258±2
+ Then average pitch                         =        = 65 𝑜𝑟 64
+                                                 4
+ Now there is possibility of two windings i.e. Progressive and retrogressive but in both type
+ of windings, one coil will remain inactive that is one coil will not be considered the part of
+ the windings. It will work as filler in the slot and the coil will be known as dummy coil. In
+ this condition, creeping is observed in the winding and the winding is known as forced
+ winding.
+ The ends of these dummy coils are tapped and these coils only help the armature for
+ maintaining the mechanical balance. At the time of numbering the coils, these dummy coils
+ are not numbered.
+
+ Equalizer connections (equalizer rings.)
+ In case of lap winding, the number of parallel paths is equal to the number of poles. Each
+ of these parallel paths consists of coil sides which are placed under two adjacent poles. If
+ flux under all poles is equal then the e.m.f. induced in all parallel paths will be equal. But
+ practically, it may happen that e.m.f. induced in different parallel paths may not be same.
+ This difference in e.m.f. is due to difference in reluctance values of corresponding iron
+ parts of magnetic circuits which causes due to defects in castings and structural
+ irregularities. It may be possible that length of air gap may not be same under all the poles
+ due to machining or assembling defects which results in difference in e.m.f. induced. The
+ third reason is that the poles may have different strengths due to error in putting field
+ winding.
+ The effect of this difference in e.m.f. is that as the e.m.f.s in different parallel paths are
+ different there will be resultant e.m.f. acting across armature winding and will force heavy
+ current through armature winding as its resistance is very small. This will cause inequality
+
+                                              57
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ in brush arm currents. It will give rise to I2R loss in the winding on no load and at full load
+ will add to the losses both in windings and brushes. It will also cause commutation
+ difficulties resulting in overheating and sparking.
+ To overcome the objectionable effects of the circulating currents, it is customary to employ
+ equalizer connections in all lap-wound armatures. These are extremely low resistance
+ copper wires that connect together points on the armature winding that are exactly 360
+ electrical degrees (two pole pitches) apart; these points should, under ideal conditions, be
+ at the same potential at all times but because of electrical, magnetic, and mechanical
+ differences, are not. If there is unequal potential difference, equalization of potential will
+ be there due to flow of current through these low resistance conductors. This bypassing of
+ circulating currents relieves the brushes from extra loading. These equalizer connections
+ may be in the form of rings which are known as equalizer rings.
+ Figure (i) illustrate rather simply how the circulating current is made to avoid the brush
+ contacts when an equalizer connection is used. In the schematic 4-pole lap winding,
+ assume that point a is at a higher potential than point b and that points c and d are at the
+ same potential. In Fig. (i-a), where no equalizer connection is employed, the circulating
+ current is seen to pass across brush contacts x and y and through the winding as indicated.
+ With an equalizer connection, however, as in Fig. (i-b), the circulating-current paths by-
+ pass brush contacts x and y; this improves the operating performance of the machine.
+
+
+
+
+    Figure (i) Sketches illustrating how circulating currents flow in an armature winding
+                           without and with an equalizer connection
+ Such equalizer connection performs two important functions:
+
+
+                                              58
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ i- They relieve the brushes of existing circulating currents by providing paths of low
+     resistance that by-pass the brush contacts;
+ ii- They create electromagnetic effects that tend to equalize the flux distributions under all
+     the poles, strengthening the weaker ones and weakening the stronger ones.
+
+
+ Generation E.M.F.
+ Generated e.m.f Eg = e.m.f generated in any one of the parallel paths.
+                                        𝑑𝜙
+ Average e.m.f generated / conductor =        volt
+                                         𝑑𝑡
+ Flux cut / conductor in one revolution 𝑑𝜙 = 𝜙𝑝 (Wb)
+ n = No. of revolutions / second = N/60
+ Time for one revolution dt = 60/N (second).
+ Hence according to Faraday's Lows.
+                                𝑑𝜙    𝜙𝑝    𝜙𝑝𝑁
+ E.M.F generated /conductor =      = 60 =         volt.
+                                𝑑𝑡            60
+                                         𝑁
+ 𝜙 = flux/pole in Weber.
+ Z = Total number of armature conductors.
+   = No. of slot × No. of conductors /slot.
+ p = No. of generator poles.
+ a = No of parallel paths in armature.
+ N = armature rotation in revolutions per minute (r.p.m).
+ E = e.m.f induced in any parallel path in armature.
+
+ For a simplex wave wound generator
+ No. of parallel paths = 2
+ No. of conductors (in series) in one path = Z/2
+    E.M.F. generated / path =  pN/60 × Z/2 =  ZpN/120 volt
+ For a simplex lap – wound generator.
+ No. of parallel paths = p
+ No. of conductors (in series) in one path = Z/p
+    E.M.F. generated / path = p  N/60 × Z/p =Z  N/60 volt
+ In general generated e.m.f Eg =  ZN/60 × (p/a) volt
+ Where        a = 2 - for simplex wave – winding
+                 = p - for simplex lap – winding
+                1      2𝜋𝑁            𝑝     𝜔𝜙𝑍   𝑝
+ Also, Eg = × ( ) × 𝜙𝑍 × ( ) =                  ×( )   volt- 𝜔 in rad/s
+               2𝜋     60             𝑎       2𝜋    𝑎
+
+ The equivalent armature resistance (Ra)
+ Rt The resistance of the used wire at operating temperature.
+ Rt =  l/A
+
+                                              59
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+  = resistivity at working temperature ohm/m.
+ L = total length of the wire used.
+ A = cross sectional area of the wire.
+
+ Rp = Rt/a      so      rp = Rt / 2   for wave &     rp = Rt / p   for lap
+
+ Rp = resistance of any parallel path of that machine.
+
+ Ra = rp / a = Rt /a2        so Ra = Rt / 4 for wave Ra = Rt / p2 for lap
+
+ Example:
+ Rt = 12 ohm
+ p=6
+
+ Ra = 12/4 = 3 ohm                     wave wound.
+ Ra = 12/36 = 0.333 0hm                lap wound.
+
+ TORQUE EQUATION
+ Let E and Ia be the armature induced voltage and armature current respectively.
+ :. Armature power = E Ia.
+ Since, P = 2nT where n = N/60. N is the speed in rpm and T is the torque of the
+ armature. Therefore, T= P/ 2n = EIa/ 2n = 60 EIa/ 2  N.
+ Substituting here for E from Equation above, we have:
+ T = 60× 𝜙 × ZNPIa/60 × 𝑎 × 2𝜋𝑁
+ T = 𝜙ZPIa/2𝜋𝑎
+
+ For a given machine Z, P and a are constants.
+ Therefore, T ∝ ϕIa
+ It is also sometimes used as T= kt If Ia where kt is called torque constant. If and Ia are the
+ field and armature winding currents respective
+
+
+
+
+                                              61
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+                                  Type of d.c. generator
+
+ (a) Separately – excited generator
+ A typical separately – excited generator circuit is shown in figure (47). We can use a pair
+ of electromagnets, called field poles, as shown in figure (47). When the d.c. current in such
+ a generator is supplied by an independent source (such as a storage battery or another
+ generator, called an exciter, the generator is said to be separately excited. Thus in figure
+ (47) the dc source connected to terminal a and b causes an exciting current If to flow. If the
+ armature is driven by a motor or a diesel engine, a voltage E appears between brush
+ terminals x and y
+ When the load is connected across the armature terminals, a load current I a will flow. The
+ terminal voltage V will fall from its open – circuit emf due to a voltage drop caused by
+ current flowing through the armature resistance, shown as Ra
+ Terminal voltage V = E – Ia Ra
+ Generated emf      E = V + Ia Ra
+
+
+
+
+                                          Figure (47)
+
+ (b) Shunt wound generator
+ In a shunt wound generator the field winding is connected in parallel with the armature so
+ that the generator can be self-excited as shown in figure (48). The principal advantage of
+ this connection is that it eliminates the need for an external source of excitation
+ When a shunt generator is started up, a small voltage is induced in the armature, due to the
+ remnant flux in the poles. This voltage produces a small exciting current If in the shunt
+ field. The resulting small mmf acts in the same direction as the remnant flux, causing the
+ flux per pole to increase. The increased flux increases E which increases I f which increases
+ the flux still more, which increases E even more, and so forth. This progressive buildup
+ continues until E reaches a maximum value determined by the field resistance and the
+ degree of saturation.
+ The field winding has a relatively high resistance and therefore the current carried only a
+ fraction of the armature current.
+
+                                              61
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+
+
+                                         Figure (48)
+
+ For the shown in figure (48),
+ Terminal voltage, V = E – Ia Ra
+ Generated emf,          E = V + Ia Ra
+ Ia = If + I from Kirchhoff's current law, where
+ Ia = armature current,
+ If = field current (If = V/Rf)
+ I = load current.
+
+ (c) Series – wound generator
+ In the series – wound generator the field winding is connected in series with the armature
+ as shown in figure (49)
+
+
+
+
+                                        Figure (49)
+
+ Terminal voltage     V = E – Ia (Ra + Rf)
+ Generated emf        E = V + Ia (Ra + Rf)
+
+                                             62
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+
+
+ (d) Compound – wound generator
+ In the compound – wound generator two methods of connection are used, both having a
+ mixture of shunt and series windings, designed to combine the advantages of each. Figure
+ (50-a) shows what is termed a long – shunt compound generator, and figure (50-d) shows a
+ short – shunt compound generator. The latter is the most generally used from of dc
+ generator.
+
+
+
+
+                                          Figure (50)
+
+ For long – shunt compound
+ Terminal voltage V = E – Ia(Ra +Rf.se)
+ or                 V = IfRf.sh
+
+ and for short – shunt compound
+ terminal voltage     V = E – (IaRa + IRf.se)
+ or                   V = IRf.se + IfRf.sh
+
+
+
+                                                63
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+                                    D.C machine losses
+ A generator is a machine for converting mechanical energy into electrical energy and a
+ motor is a machine for converting electrical energy into mechanical energy. When such
+ conversions take place, certain losses occur which are dissipated in the form of heat.
+ The principal losses of machines are:
+ (i) Copper loss, due to I2R heat losses in the armature (Ia2Ra) and field windings (If2Rf).
+ (ii) Iron (or core) loss: due to hysteretic and eddy-current losses in the armature. This loss
+ can be reduced by constructing the armature of silicon steel laminations having a high
+ resistively and low hysterics loss. At constant speed, the iron loss is assumed constant.
+ (iii) Friction and windage losses (mechanical losses): due to bearing and brush contact
+ friction and losses due to air resistance against moving parts (called windage). At constant
+ speed, these losses are assumed to be constant.
+ (iv) Brush contact loss: between the brushes and commutate. The voltage drop across the
+ brushes, called brush contact drop or brush drop is relatively small. It includes brushes of
+ both polarities and is assumed to have the following constant values for all loads.
+ 0.5 V for metal – graphite brushes.
+ 2.0 V for electro graphitic and graphite brushes.
+ This loss is approximately proportional to the load current.
+ (v) Rotational losses (stray-losses)
+ Rotational losses occur in the rotational part of the generator and are made up of the
+ following two components:
+ a) Mechanical losses are made up of the following components:
+ 1- Bearing friction losses and brushes friction on the commutator losses
+ 2- Wind friction, usually called windage
+ b) Iron losses or magnetic losses are made up of the following components:
+ 1- Hysteresis losses
+ 2- Eddy current losses
+ The total losses of a machine can be quite significant and operating efficiencies of between
+ 80 per cent and 90 per cent are common.
+ In the case of a shunt or compound generator, shunt field copper losses and stray losses are
+ constant and armature and series field losses are variable losses.
+ Efficiency of a d.c. generator
+ The efficiency of an electrical machine is the ratio of the output power to the input power
+ and is usually expressed as a percentage. The Greek letter,  (eta) is used to signify
+ efficiency and since the units are, power/power, then efficiency has no units. Thus
+
+ Efficiency  = (output power/input power)×100%
+
+ If the total resistance of the armature circuit (including brush contact resistance) is Ra then
+ the total loss in the armature circuit is Ia2 Ra
+
+                                              64
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ If the terminal voltage is V and the current in the shunt circuit is If, then the loss in the
+ shunt circuit is If V.
+ If the sum of the iron, friction and windage losses is C (mechanical losses) then the total
+ losses is given by:
+ I2a Ra + If V+ C       (I2a Ra + If V is, in fact, the 'copper loss').
+ If the output current is I then the output power is VI.
+ Total input power = VI + I2a Ra + If V + C.          Hence
+
+          = (VI/ VI + I2a Ra + If V + C) ×100%
+
+ The efficiency of a generator is a maximum when the load is such that:
+ I2a Ra = VIf + C
+ i.e. when the variable loss = the constant loss
+ ARMATURE REACTION AND COMMUTATION
+ Armature Reaction
+ By armature reaction is meant the effect of magnetic field set up by armature current on the
+ distribution of flux under main poles of a generator. The armature magnetic field has two
+ effects:
+ (i) It demagnetises or weakens the main flux and
+ (ii) It cross-magnetises or distorts it
+ The first effect leads to reduced generated voltage and the second to the sparking at the
+ brushes.
+ These effects are well illustrated in Figure (45) which shows the flux distribution of a
+ bipolar generator when there is no current in the armature conductors. For convenience,
+ only two poles have been considered, though the following remarks apply to multicolor
+ fields as well. Moreover, the brushes are shown touching the armature conductors directly,
+ although in practice, they touch commutator segments, It is seen that
+ (a) The flux is distributed symmetrically with respect to the polar axis, which is the line
+ joining the centers of NS poles.
+ (b) The magnetic neutral axis or plane (M.N.A.) coincides with the geometrical neutral
+ axis or plane (G.N.A)
+ Magnetic neutral axis may be defined as the axis along which no e.m.f. is produced in the
+ armature conductors because they then move parallel to the lines of flux.
+ Or M.N.A. is the axis which is perpendicular to the flux passing through the armature.
+ The brushes are always placed along M.N.A Hence M.N.A. is also called 'axis of
+ commutation' because reversal of current in armature conductors takes place across this
+ axis. In Figure (45) is shown vector OFm which represent, both in magnitude and direction,
+ the m.m.f. producing the main flux and also M.N.A which is perpendicular to OFm
+ In Figure (46) is shown the field (or flux) set up by the armature conductors alone when
+ carrying current, the field coils being unexcited. The direction of the armature current is
+ the same as it would actually be when the generator is loaded. It may even be found by
+
+                                             65
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ applying Fleming's Right-hand Rule. The current direction is downwards in conductors
+ under N-pole and upwards in those under S-pole. The downward flow is represented by
+ crosses and upward flow by dots.
+ As shown in Figure (46) the m.m.fs of the armature conductors combine to send flux
+ downwards through the armature. The direction of the lines of force can be found by
+ applying cork-screw rule. The armature m.m.f. (depending on the strength of the armature
+ current) is shown separately both in magnitude and direction by the vector OFA which is
+ parallel to the brush axis.
+ So far, we considered the main m.m.f. and armature m.m.f. separately as if they existed
+ independently, which is not the case in practice. Under actual load conditions, the two exist
+ simultaneously in the generator as shown in Figure (47)
+ It is seen that the flux through the armature is no longer uniform and symmetrical about the
+ pole axis, rather it has been distorted. The flux is seen to be crowded at the trailing pole
+ tips but weakened or thinned out at the leading pole tips (the pole tip which is first met
+ during rotation by armature conductors is known as the leading pole tip and the other as
+ trailing pole tip). The strengthening and weakening of flux is separately shown for a four-
+ pole machine in Figure (48). As seen, air-gap flux density under one pole half is greater
+ than that under the other pole half.
+ Figure (47) is shown the resultant m.m.f. OF which is found by vectorially combining OFm
+ and OFA.
+ The new position of M.N.A., which is always perpendicular to the resultant m.m.f. vector
+ OF, is also shown in the figure. With the shift of M.N.A, say through an angle  brushes
+ are also shifted so as to lie along the new position of M.N.A. Due to this brush shift (or
+ forward lead), the armature conductors and hence armature current is redistributed. Some
+ armature conductors which were earlier under the influence of N-pole come under the
+ influence of S-pole and vice-versa. This regrouping is shown in Figure (49), which also
+ shows the flux due to armature conductors. Incidentally, brush position shifts in the same
+ direction as the direction of armature rotation.
+ All conductors to the left of new position of M.N.A. but between the two brushes carry
+ current downwards and those to the right carry current upwards. The armature m.m.f. is
+ found to lie in the direction of the new position of M.N.A. (or brush axis). The armature
+ m.m.f. is now represented by the vector OFA which is not vertical (as in Figure (46)) but is
+
+
+
+
+                                             66
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+                Figure (45)                                     Figure (46)
+ inclined by an angle  to the left. It can now be resolved into two rectangular components,
+ OFd parallel to polar axis and OFc perpendicular to this axis. We find that
+ (i) Component OFc is at right angles to the vector OFm (of Figure (45)) representing the
+ main m.m.f. It produces distortion in the main field and is hence called the cross-
+ magnetising or distorting component of the armature reaction.
+ (ii) The component OFd is in direct opposition of OFm which represents the main m.m.f. It
+ exerts a demagnetising influence on the main pole flux. Hence, it is called the
+ demagnetising or weakening component of the armature reaction.
+ It should be noted that both distorting and demagnetising effects will increase with increase
+ in the armature current.
+
+
+
+
+              Figure (47)                                   Figure (48)
+
+ Demagnetising and Cross-magnetising Conductors
+ The exact conductors which produce these distorting and demagnetising effects are shown
+ in Figure (50) where the brush axis has been given a forward lead of  so as to lie along
+ the new position of M.N.A. All conductors lying within angles AOC = BOD = 2  at the
+ top and bottom of the armature, are carrying current in such a direction as to send the flux
+ through the armature from right to left. This fact may be checked by applying crock screw
+ rule. It is these conductors which act in direct opposition to the main field and are hence
+ called the demagnetising armature conductors.
+ Now consider the remaining armature conductors lying between angles AOD and COB. As
+ shown in Figure (51), these conductors carry current in such a direction as to produce a
+ combined flux pointing vertically downwards i.e. at right angles to the main flux. This
+ results in distortion of the main field. Hence, these conductors are known as cross-
+ magnetising conductors and constitute distorting ampere-conductors.
+
+
+
+                                             67
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ Demagnetising AT per Pole
+ Since armature demagnetising ampere-turns are neutralized by adding extra ampere-turns
+ to the main field winding, it is essential to calculate their number. But before proceeding
+ further, it should be remembered that the number of turns is equal to half the number of
+ conductors because two conductors-constitute one turn.
+ Let
+ Z = total number of armature conductors
+ I = current in each armature conductor
+   = Ia/2          for simplex wave winding
+   = Ia/P           for simplex lap winding
+  m = for word lead in mechanical or geometrical or angular degrees.
+ Total number of armature conductors in angles AOC and BOD = (4  m / 360) × Z
+ As two conductors constitute one turn,
+  Total number of turns in these angles = (2  m / 360) × Z
+  demagnetizing amp-turns per pair of poles = (2  m / 360) ×ZI
+ .demagnetizing amp-turns / pole = (  m / 360) × ZI
+ .ATd per pole = ZI × (  m / 360)
+
+
+
+
+                   Figure (49)                               Figure (50)
+
+
+
+
+                                            68
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+
+
+ Figure (51)                                                     Figure (52-i)
+ Cross-magnetising AT per pole
+ The conductors lying between angles AOD and HOC constitute what are known as
+ distorting or cross-magnetising conductors. Their number is found as under:
+ Total armature-conductors/pole both cross and demagnetising = Z/P
+ Demagnetising conductors / pole = Z ×(2  m/360) (found above)
+  cross-magnetising conductors/pole = (Z/P) – Z × (2  m / 360) = Z (1/P - 2  m/360)
+  cross-magnetising amp-conductor/pole = ZI × (1/P - 2  m / 360)
+  cross-magnetising amp-turns/pole = ZI × (1/2P -  m / 360)
+  ATc/pole = ZI × (1/2P -  m / 360)
+ Note. (i) For neutralizing the demagnetising effect of armature-reaction, an extra number
+ of turns may be put on each pole.
+ No. of extra turns/pole = ATd/Ish                         for shunt generator.
+                                  = ATd/Ia                 for series generator.
+ If the leakage coefficient  is given, then multiply each of the above expressions by it.
+ (ii) If lead angle is given in electrical degrees, it should be converted into mechanical
+ degrees by the following relation
+  (mechanical) =  (electrical) / pair of poles or  m =  e/ (P/2) = 2  e / P
+
+ Compensating Windings
+ These are used for large direct current machines which are subjected to large fluctuations
+ in load i.e. rolling mill motors and turbo-generators etc. Their function is to neutralize the
+ cross magnetizing effect of armature reaction. In the absence of compensating windings,
+ the flux will be suddenly shifting backward and forward with every change in load. This
+ shifting of flux will induce statically induced e.m.f. in the armature coils. The magnitude of
+ this e.m.f. will depend upon the rapidity of changes in load and the amount of change. It
+ may be so high as to strike an arc between the consecutive commutator segments across the
+
+
+                                              69
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ top of the mica sheets separating them. This may further develop into a flash-over around
+ the whole commutator thereby short-circuiting the whole armature.
+ These windings are embedded in slots in the pole shoes and are connected in series with
+ armature in such a way that the current in them flows in opposite direction to that flowing
+ in armature conductors directly below the pole shoes. An elementary scheme of
+ compensating winding is shown in Figure (52-i, ii).
+
+
+
+
+                        Figure (52-ii)
+ It should be carefully noted that compensating winding must provide sufficient m.m.f so as
+ to counterbalance the armature m.m.f. Let
+ Zc = No. of compensating conductors/pole face
+ Za = No. of active armature conductors/pole.
+ Ia = total armature current
+ Ia / A= current/armature conductor
+ ... Zc Ia = Za (Ia/a)   or      Zc = Za/a
+ Owing to their cost and the room taken up by them, the compensating windings are used in
+ the case of large machines which are subject to violent fluctuations in load and also for
+ generators which have to deliver their full-load output at considerable low induced voltage
+ as in the Ward-Leonard set.
+
+ No. of Compensating Windings
+  No. of armature conductors/pole = Z/P
+  No. of armature turns/pole = Z/2P
+  No. of armature-turns immediately under one pole
+ = Z/2P × pole arc/pole pitch = 0.7 Z/2P (approx.)
+  No. of armature amp-turns/pole for compensating winding
+ = 0.7 × ZI/2P = 0.7 ×armature amp-turns/pole.
+
+
+
+
+                                            71
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ Commutation process
+ When a generator is under load, the individual coils
+ on the armature carry one-half the load current
+ carried by one brush. The currents flowing in the
+ armature windings next to a positive brush are
+ shown in Figure (53-a). Note that the currents in the
+ coils flow toward the brush, coming both from the
+ right and the left. If the load current is 80 A, the
+ coils all carry 40 A.
+ If the commutator segments are moving from right
+ to left, the coils on the right-hand side of the brush
+ will soon be on the left-hand side. This means that
+ the current in these coils must reverse. The reversal
+ takes place during the millisecond interval that a
+ coil takes to move from one end of the brush to the
+ other. The process whereby the current changes
+ direction in this brief interval is called
+ commutation.
+ To understand how commutation takes place, we
+ refer to Figures (53-a to 53-e).
+ In Figure (53-a) the brush is in the middle of
+                                                            Figure (53)
+ segment 1, and the 40 A from the coils on the right
+ and the left of the brush unite to give the 80 A output. The contact resistance between the
+ segment and brush produces a voltage drop of about 1 V.
+ In Figure (53-b) the commutator has moved a short distance, and 25 percent of the brush
+ surface is now in contact with segment 2, while 75 percent is in contact with segment 1.
+ Owing to the contact resistance, the conductivity between the brush and commutator is
+ proportional to the contact area. The area in contact with segment 2 is only one-fourth of
+ the total contact area, and so the current from segment 2 is only one-fourth of the total
+ current, namely 0.25 × 80 = 20. By the same token, the current from segment 1 to the
+ brush is 0.75 × 80 = 60 A.
+ If we now apply Kirchhoff's current law, we discover that the current flowing in coil 1
+ must be 20 A. Thus, by coming in contact with the brush, the current in this coil has
+ dropped from 40 A to 20 A.
+ In Figure (53-c) the commutator has moved a little further, and the brush area in contact
+ with segments 1 and 2 is now the same. Consequently, the conductivities are the same and
+ so the currents are equal. This means that the current in coil 1 is zero at this instant.
+ In Figure (53-d) the commutator has moved still farther to the left. Segment 2 is now in
+ contact with 75 percent of the brush, and so the currents divide accordingly: 60 A from
+ segment 2 and 20 A from segment 1. Applying Kirchhoff's current law, we find that the
+ current in coil 1 is again 20 A, but it flows in the opposite direction to what it did before!
+
+                                              71
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ We can now understand how the brush contact resistance forces a progressive reversal of
+ the current as the segments slide over the brush.
+ In Figure (53-e) the current reversal in coil 1 is complete and the current in coil 2 is about
+ to be reversed.
+ In this ideal commutation process, it is important to note that the current density (amperes
+ per square centimeter) remains the same at every point across the brush face. Thus, the heat
+ produced by the contact resistance is spread uniformly across the brush surface.
+ Unfortunately, such ideal commutation is not possible in practical machines, and we now
+ investigate the reason why?
+ The practical commutation process
+ The problem with commutation is that it takes place in a very short time; consequently, the
+ current cannot reverse as quickly as it should. The reason is that the armature coils have
+ inductance and it strongly opposes a rapid change in current.
+ Suppose, for example, that the commutator in Figure (53) has 72 bars and that the armature
+ turns at 600 r/min. One revolution is, therefore, completed in 1/10 of a second and during
+ this short period 72 commutator bars sweep past the brush. Thus, the time available to
+ reverse the current in coil 1 is only 1/10  1/72 = 1/720 s or 1.39 ms
+ The voltage induced by self-induction is given by
+ e  LI t
+ In which
+ e = induced voltage [V]
+ L = inductance of the coil [H]
+ I t = rate of change of current [A/s]
+ If coil 1 has an inductance of, say, 100  H, the induced voltage is
+ e  LI t or e  2 L.I c tc where I c is the conductor current and tc time of commutation
+    100  10 6   40   40 
+ 
+            1.39  10 3
+ = 5.75 V
+ It is the presence of this induced voltage (attributable to L), that opposes the change in
+ current.
+ Figures (54-a to 54-e) illustrate the new currents that flow in coil 1 when the self-
+ inductance of the coil is considered. We have assumed plausible values for these currents
+ in order to determine the resulting current flows in the brush. The currents should be
+ compared with those in Figure (53).
+
+
+
+
+                                              72
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ In Figure (54-a) the brush is in the middle of
+ segment 1, and the currents in the coils are
+ neither increasing nor decreasing. As a result, the
+ coil inductance does not come into play.
+ In Figure (54-b) the current in coil 1 is changing
+ due to the contact resistance effect. However, the
+ induced voltage e prevents the current from
+ dropping to its ideal value of 20 A. Suppose the
+ coil current is 35 A. From Kirchhoff's current
+ law, the currents flowing from segments 1 and 2
+ into the brush are then respectively 75 A and 5
+ A, instead of 60 A and 20 A. Note that the
+ current density is no longer uniform over the
+ brush face. The density is low where the brush
+ touches segment 2, and high where it touches
+ segment 1.
+ In Figure (54-c) the brush is momentarily
+ symmetrically placed as regards segments 1 and
+ 2. But the current in coil 1 has not fallen to zero,
+ and is still, say 30 A. As a result, the current in
+ segment 1 is 70 A while that in segment 2 is only
+ 10 A. The current density on the left-hand side of
+ the brush is, therefore, 7 times greater than on the
+ right-hand side. The left-hand side of the brush
+ will tend to overheat.
+ In Figure (54-d) segment 1 has moved beyond
+ the midpoint of the brush and the current in coil 1
+ has still not reversed. Assuming it has a value of
+ 20 A. the current flowing from segment 1 to the
+ brush is now 60 A. despite the fact that the             Figure (54)
+ contact area is getting very small. The resulting
+ high current density causes the brush to overheat at the tip. Because 720 coils are being
+ commutated every second, this overheating raises the brush tip to the incandescent point
+ and serious sparking will result.
+ How to Improve Commutation
+ This can be done by following methods:
+ 1- Reduction of inductance and increase of resistance of the commutating coils:
+ Reduction of inductance is possible by using single or minimum turns coils and the
+ resistance can be increased by increasing contact resistance in riser or using high resistivity
+ brushes. Thus the relative effect of inductance on the commutation is decreased.
+ 2- Shifting brushes from g.n.a.:
+
+                                              73
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ The brushes can be usefully shifted from the g.n.a. as discussed in the armature reaction
+ section of this chapter. The main advantage of this shifting is that now the commutating
+ coil comes in the main pole field which gives a dynamic emf to help commutation. That is
+ why the shifting of brushes in the other direction is not allowed, in that case the
+ commutating coil comes under the influence of the opposite pole which will provide a
+ dynamic emf in it to severe the commutation.
+ 3- Using inter-pole this is the most commonly used and the best method of improving
+ commutation. When a machine is provided with inter pole at the geometrical axis the
+ brushes are also kept on the same axis. No shifting of brushes is done in case of inter pole
+ machines.
+ The winding of the inter pole is in series with the armature winding so the same armature
+ current flows through the inter poles. This is also the commutating current. When this
+ current is large i.e. the commutation is likely to be severe this current produces a large flux
+ at the inter pole i.e. in the commutating zone. The winding in the inter pole is done in such
+ a direction so that the dynamic emf produced due to the cutting of this inter pole flux by
+ the commutating coil sides is in a direction helping the commutation. The number of turns
+ on the inter pole is as per the degree of remedial action required. The polarity of these inter
+ poles should be similar in effect to the polarity which we get when we improve the
+
+
+
+
+                                              74
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ commutation by shifting of brushes. That is in case of generating mode the polarity of the
+ inter pole should be the same as that of the main pole being approached and in motor mode
+ it should be that of the main pole being left behind.
+ 4- Compensation winding
+ Compensation winding is placed in the main pole shoes and connected in series with the
+ armature winding such that the mmf. of the two windings oppose and cancel each other.
+ This makes the operation of the machine much more reliable and practically independent
+ of load variations but the design of the machine becomes complicated and its cost goes
+ high.
+
+ Other Causes of Sparking and Flash-over on Commutator
+ The sparking on commutator may still be there, although the commutation in the machine
+ may be good, because of some of the following other reasons.
+ 1- Mechanical defects: Non circular form of commutator and its eccentricity due to
+ improper manufacturing process or caused by over-heating and centrifugal forces, mica
+ protruding between the bars, poor surface finish. shaking and vibration of brushes in the
+ brush holder, improper fixing of brush holder, loose mounting of the brush rockers, poor
+ quality brush material are all the mechanical reasons of sparking on the commutator.
+ 2- Voltage surges between commutator segments: The commutator design is based on
+ some maximum voltage coming across the two adjacent commutator segments. The
+ voltage coming across these two adjacent commutator segment is the emf induced in the
+ armature coil connected to these segments. Because of heavy distortion or abrupt
+ fluctuation of flux in the gap due to, sudden load changes or faults etc may induce such a
+ heavy emf in one or more armature coil which causes the spark between the segments.
+ 3- Dirt and oil on commutator: Dirt or carbon dust particles when impregnated with oil,
+ due to oily surface, bridges the insulation gaps between the commutator segments. These
+ particles when come under the brushes and get heated up, create conductive bridge
+ between the segments. This causes large leakage current between the segments, which
+ enhance the heating, creating a highly ionized space around the commutator which may
+ cause a flash over, short circuiting the brushes around the commutator. Regular cleaning of
+ commutator prevents this fault
+
+
+
+
+                                            75
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+  Characteristic of D.C generators
+  1- No-load saturation characteristic (E&If). It is also known as Saturation curve,
+  Magnetic characteristics, & Open – circuit characteristic (O.C.C)
+  It shows the relation between the no load generator e.m.f in armature (E) and the field or
+  exciting current If at a given fixed speed.
+  No-load curve characteristics
+  The o.c.c or no-load saturation curves for self-excited generators whether shunt or series
+  connected, are obtained in similar way.
+  1- The field winding of the generator (whether shunt or series wound) is disconnected from
+  the machine and connected to an external source of direct current.
+  2- The field or exciting current If is varied rheostatically and its value read on the ammeter.
+  3- The machine is driven at constant speed by the prime mover and the generated e.m.f on
+  no load is measured by the voltmeter connected across the armature
+  4- If is increased by suitable steps (starting from zero) and the corresponding value of E are
+  measured.
+  5- On plotting the relation between If and E a curve is obtained.
+
+
+
+
+   Building of the voltage of self-excited shunt generator
+   One of the simples of self-excited generator is the shunt-
+   wound machine, the connection diagram (without load) of
+   which is shown in figure (55). The manner in which a
+   self-excited generator manages to excite its own field and
+   build a d.c. voltage across its armature is described with
+   reference to figure (56) in the following steps:
+i- Assume that the generator starts from rest, i.e., prime-
+    mover speed is zero. Despite a residual magnetism, the
+    generated e.m.f. E is zero.
+ii- As the prime-mover rotates the generator armature and
+    the speed approaches rated speed, the voltage due to
+    residual magnetism and speed increases.
+iii- At rated speed, the voltage across the armature due to
+
+                                               76
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+  residual magnetism is small, E1, as shown in the figure. But this voltage is also across the
+  field circuit whose resistance is Rf. Thus, the current which flows in the field circuit I1, is
+  also
+
+
+
+
+iv- When I1 flow in the field circuit of the generator of figure (55), an increases in m.m.f.
+   results (due to IfTf, Tf being field turns, which aids the residual magnetism in increasing
+   the induced voltage to E2 as shown in figure (56)
+v- Voltage E2 is now impressed across the field, causing a large current I 2 to flow in the field
+   circuit. I2Tf is an increased m.m.f., which produces generated voltage E3.
+vi- E3 yields I3 in the field circuit, producing E4. But E4 causes I4 to flow in the field
+   producing E5; and so on, up to E8, the maximum value.
+vii- The process continues until that point where the field resistance line crosses the
+   magnetization curve in figure (56) here the process stops. The induced voltage produce
+   when impressed across the field circuit produces a current flow that in turn produces an
+   induced voltage of the same magnitude, E8, as shown in the figure.
+
+  Critical resistance:
+ In the above description a particular value of field resistance R f was used for building up
+  of self-exited shunt generator. If the field resistance were reduced by means of adjusting
+  the field rheostat of figure (55) to a lower value say R f1 shown in figure (56), the build-up
+  process would take place along field resistance line Rf1, and build-up a somewhat higher
+
+                                               77
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+  value than E8, i.e. the point where Rf1 intersects the magnetization curve. E9. Since the
+  curve is extremely saturated in the vicinity of E9, reducing the field resistance (to its
+  limiting field winding resistance) will not increase the voltage appreciably. Conversely,
+  increasing the field rheostat resistance and the field circuit resistance (to a value having a
+  higher slop than Rf in the figure) will cause a reduction of the maximum value to which
+  build-up can possibly occur.
+ The field resistance may be increased until the field circuit reaches a critical field
+  resistance. Field circuit resistance above the critical field will fail to produce build-up
+
+  Condition for build up voltage of a shunt generator
+  1-There must be some residual magnetism in the generator poles.
+  2-The shunt field coil should be correctly connected to the armature for a given direction of
+  rotation i.e. they should be so connected that the induced current reinforced the e.m.f
+  produced initially due to residual magnetism.
+  3-Shunt field resistance should be less than the critical resistance (Rc < Rf)
+  4-The speed must be greater than critical speed to generated the e.m.f (n <nc).
+  How to find critical resistance (Rc)
+  1-First o.c.c is plot from the given data.
+  2-Then, tangent is drowning to its initial portion.
+  3-The slope of this curve gives the critical resistance for the speed at which the data was
+  obtained.
+  Rc = OX/OZ = Volt/Ampere = Slope = ( ) ohm.
+
+  How to draw o.c.c at different speeds
+  1-Given o.c.c at speed N1.
+  2-Since  for any fixed excitation E = ZPN  /a 60 = k N 
+  Where k = ZP/a 60 constant.
+  3-If fixed excitation 1  2 so    E2/E1=N2/N1 then E2 = E1×(N2/N1)
+  If = OH
+  E1 = HC             E2 = E1×(N2/N1)
+  E2 = HD             E2 = HC×(N2/N1) = HD         so point D is located.
+  4-In such way, other such point can be found and new o.c.c at N2 drawn.
+
+
+
+
+                                               78
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ Critical speed Nc
+ 1-Draw o.c.c at (N).
+ 2-Draw OT tangent to o.c.c (curve 1)
+ 3-Draw field line (Rf = Rsh line) corresponds to critical speed because Rsh line is tangential
+ to it.
+ 4-From point (C) at If draw perpendicular line such that cut Rsh = Rf at B and cut OT at A.
+ 5-Then Nc=BC/AC × N
+
+
+
+
+                                              79
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ Characteristic of d.c. generator
+ 2-Internal and external characteristics:
+ The behavior of E or V of a generator as its load changes at constant speed is known as
+ internal or external load characteristics respectively. That is, internal load characteristic
+ is E vs IL and external load characteristic is V vs IL or (E- IaRa) vs IL.
+ a- Separately – excited generator
+ When the field is given the normal supply the maximum e.m.f is generated at no load. As
+ the machine is loaded the voltage drop at any particular load current, indicated by the
+ vertical distance between the external characteristic and the no-load voltage is brought
+ about by two causes:
+  i) Armature reaction which has a demagnetizing effect upon the field.
+  ii) Resistance drop, this being the product of the armature current and the total armature-
+      circuit resistance, consisting of the armature resistance, interpole resistance and brush
+      contact resistance.
+ There is some demagnetizing effect of armature reaction because of which the value of
+ e.m.f generated decreases slightly. As the load is more and more this effect is more and
+ more.
+                                           𝑉 = 𝐸 − 𝐼𝑎 𝑅𝑎
+                                             𝜙 ∝ 𝐼𝑓
+                                           𝑉
+                                    𝐼𝑓 =      ⇒ 𝐶𝑂𝑁𝑆𝑇𝐴𝑁𝑇
+                                           𝑅𝑓
+                                       𝑃 𝑍𝑁𝜙
+                                  𝐸=         ⇒ 𝐶𝑂𝑁𝑆𝑇𝐴𝑁𝑇
+                                       𝑎 60
+
+ Thus curve (1) in figure (57) represents internal characteristic of a separately excited d.c.
+ generator. If we deduct armature resistance drop at every point from curve (1) we get curve
+ (2) which is the external characteristics of the separately excited machine.
+ A separately – excited generator is used only in special cases, such as when a wide
+ variation in terminal p.d. is required, or when exact control of the field current is necessary.
+ Its disadvantage lies in requiring a separate source of direct current
+
+
+
+
+                                           Figure (57)
+
+                                               81
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ b- Shunt generator:
+ In case of d.c. shunt generator as the load increases there is decreases in e.m.f generated
+ due to:
+ i) Armature-circuit resistance (𝑅𝑎 )
+ ii) Armature reaction
+ iii) Reduction in field current
+ The armature reaction as is the case in a separately excited machine. But in shunt machine
+ there is an additional drop in e.m.f due to the fall in terminal voltage. As the load increases
+ the terminal voltage decreases and the field winding gets slightly reduced voltage so the
+ field current and the flux in the poles slightly decreases.
+                                          𝑉 = 𝐸 − 𝐼𝑎 𝑅𝑎
+                                           𝑃 𝑍𝑁𝜙
+                                      𝐸=         ⇒ 𝑘𝜙
+                                           𝑎 60
+                                            𝜙 ∝ 𝐼𝑓
+                                                   𝑉
+                                            𝐼𝑓 =
+                                                   𝑅𝑓
+ When load (𝐼𝑎 ) ↑⟹ 𝑉 ↓⟹ 𝐼𝑓 ↓⟹ 𝜙 ↓⟹ 𝐸 ↓
+ Thus there is fall of e.m.f generated on that account. Thus curve (i) in figure (58)
+ represents internal characteristic of a shunt generator. Curve (ii) got after deducting
+ armature resistance drop at every point from curve (i) represents its external characteristics.
+ As shown in figure (58) further application of load causes the generator to reach a
+ breakdown point beyond which further load causes it to ‘unbuild’ as it operation on the
+ unsaturated portion of its magnetization curve. This unbuilding process continues until the
+ terminal voltage is zero, at which point the load current is of such magnitude that the
+ internal armature circuit voltage drop equals the e.m.f. generated on the unsaturated or
+ linear portion of its magnetization curve
+ The shunt –wound generator is the type most used in practice, but the load current must be
+ limited to a value that is well below the maximum value. This then avoids excessive
+ variation of the terminal voltage. Typical applications are with battery charging and motor
+ car generators.
+
+
+
+
+                                              81
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+                                          Figure (58)
+ c- Series generators:
+ The saturation curve (1) may be obtained in a manner exactly similar to that already
+ described for the shunt machine. The series-connected generator is illustrated in figure (59).
+ The series connected generator illustrated in figure (60) must be capable of safely carrying
+ the maximum current to be used, or about 125 per cent of rated current. A plot of
+ simultaneous readings of generated voltage and field current, take at rated speed, yields the
+ magnetization curve 1. External curve 2 of figure (60). If OA is the resistance line for the
+ circuit the terminal voltage is the ordinate to the curve at A. When the resistance of the
+ circuit is gradually increases, the load falls off along the curve, and A approaches B. When
+ the resistance line finally becomes tangent to the curve, however, operation become
+ unstable, and any slight further increase in the resistance causes the machine to unbuild its
+ voltage and also its load. The resistance that brings about this condition is called the critical
+ resistance. Therefore, to begin with, the resistance of the circuit must be reduced below the
+ critical value before the generator delivers any load.
+ Internal characteristic curve 3 of figure (60). This curve is obtained by adding the resistance
+ drop 𝐼𝑎 (𝑅𝑎 + 𝑅𝑠𝑒 ) to external characteristic curve; 𝑅𝑎 and 𝑅𝑠𝑒 being armature resistance
+ and series field resistance respectively.
+ The difference between curve 1 and 3 is the reduction in voltage caused by armature
+ reaction.
+                                      𝑉 = 𝐸 − 𝐼𝑎 (𝑅𝑎 + 𝑅𝑠𝑒 )
+                                            𝑃 𝑍𝑁𝜙
+                                       𝐸=         ⟹ 𝑘𝜙
+                                            𝑎 60
+                                             𝜙 ∝ 𝐼𝑓
+                                             𝐼𝑓 = 𝐼𝑎
+ When load current (𝐼𝑎 ) ↑⟹ 𝐼𝑓 ↑⟹ 𝜙 ↑⟹ 𝐸 ↑
+
+
+
+
+          Figure (59)                                      Figure (60)
+
+                                               82
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+
+ It is worth noting that between A and C a considerable change in resistance brings about
+ only a slight change in load current. Over this range the voltage decreases rapidly, owing to
+ increasing armature reaction (particularly when the brushes are shifted forward), while the
+ current remains nearly constant. Thus, between A and C the machine may be used to supply
+ power to a constant current variable-voltage circuit, such as series arc circuit.
+ Owing to initially rising characteristic, the generator is often used as a voltage booster to
+ given an increase of voltage practically proportional to the current.
+ A series generator also finds application in electric traction where ‘dynamic braking’ is
+ employed. The connections of the series traction motors are changed by means of a
+ controller so that they act as generators; the power absorbed in braking the vehicle being
+ dissipated in resistances, which are also used for starting purposes when the machines are
+ reconnected as motors.
+
+ d- Cumulatively compounded generators:
+ In compound generators, for the sake of simplicity we draw only the external load
+ characteristics. One can easily get the internal load characteristics by adding armature and
+ series winding drops at every point to the external characteristic curve. Figure (61)
+
+
+
+
+                                         Figure (61)
+
+                                      𝜙𝑡 = 𝜙𝑠ℎ. + 𝜙𝑠𝑒.
+ One gets the load characteristics of a cumulatively compounded generator by
+ superimposing, additively, the series characteristics over the shunt characteristics. The
+ resultant curve depends upon the strength of the series field winding the shunt field
+ winding. Thus we may have the three types of cumulatively compounded generators as
+ shown in figure (62). When the series field strength is just enough, that it compensates all
+ the voltage drop in the machine and the terminal voltage on full load is the same as on no
+ load, the machine is called level compounded generator. When the series field is stronger
+ and full load terminal voltage is higher than the no load terminal voltage the machine is
+
+                                             83
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ called over compounded. If the full load terminal voltage is less than the no load voltage it
+ is under compounded machine.
+ Cumulatively compounded generators are normally used for generating d.c supplies to feed
+ d.c machinery and apparatus. d.c. level compounded generator is especially suited to where
+ a constant output voltage in a wide range is required.
+ e- Differentially compounded generators:
+ In these generators as the series field is subtractive from the shunt field, so when the load
+ increases the voltage falls very rapidly as shown in figure (63).
+                                        𝜙𝑡 = 𝜙𝑠ℎ. − 𝜙𝑠𝑒.
+ Differentially compound – wound generators are used in electric arc welding. Its special
+ highly drooping load characteristic especially matches with the arc characteristics required
+ for the d.c arc welding. They have also been used with arc lamps and arc furnaces.
+
+
+
+
+                    Figure (62)                                        Figure (63)
+
+Application of d.c. generators
+Separately excited generators:
+i)    The separately excited generators are usually more expensive than self-excited
+      generators as they require a separate source of supply. Consequently they are generally
+      used where self-excited are relatively unsatisfactory. These are used in Ward Leonard
+      systems of speed control, because self-excitation would be unstable at lower voltages.
+ii)   These generators are also used where quick and requisite response to control is
+      important (since separate excitation gives a quicker and more precise response to the
+      changes in the resistance of the field circuit).
+Shunt generators:
+i)    These generators are used to advantage, in conjunction with automatic regulators, as
+      exciters for supplying the current required to excite the fields of A.C. generators. The
+      regulator controls the voltage of the exciter by cutting in and out some of the resistance
+      of the shunt-field rheostat, thereby holding the voltage at whatever value is demanded
+
+
+                                              84
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+       by operating conditions. This is one of the most important applications of shunt
+       generators.
+ii)    Shunt generator are used to charge batteries in this application the voltage should drop
+       off slightly as the load increases, because the voltage of a lead battery is lower when
+       battery is discharged than when battery is charged. When it is discharged, however, the
+       battery can stand a large charging current than when it is charged. Because of its
+       drooping characteristic the shunt generator is admirably suited to battery charging
+       service, for, in a general way, the voltage curve of the generator has the same shape as
+       the voltage curve of the battery itself. In both cases, as the load falls the voltage rises.
+Series generators
+i)     Series arc lighting.
+ii)    Series incandescent lighting.
+iii) As a series booster for increasing the voltage across the feeder carrying current
+       furnished by some other sources.
+Compound generators
+i)     It may be built and adjusted automatically to supply an approximately constant voltage
+       at the point of use, throughout the entire range of load. This is very great advantage. It
+       is possible to provide a constant supply voltage at the end of a long feeder by the
+       simple expedient of over compounding the generator, because the resistance drop in the
+       line is compensated for by the rising characteristic of the generator.
+ii)    Differentially compounded generator finds an useful application as an arc welding
+       generator where the generator is practically short circuited every time the electrode
+       touches the metal plates to be welded.
+
+Terminal voltage of a generator on load
+The terminal voltage of a generator on load is corresponding to the point of intersection
+between its external characteristics and equivalent load resistance line as shown in figure (64)
+It is clear from figure (65) that a series generator will not build up any voltage if the load
+resistance is above the critical value.
+
+
+
+
+                 Figure (64)                                         Figure (65)
+
+                                               85
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+
+ Voltage Regulation
+ The voltage regulation of a D.C. generator is the percent change in terminal voltage from no
+ load to rated load when run at constant speed with respect to rated voltage:
+        VnL  Vrated
+ VR                  100
+           Vrated
+ Where
+            VR = voltage regulation (percent)
+            VnL = no-load (open-circuit) voltage (V)
+            Vrated = voltage indicated on name plate of machine (V)
+ Example
+ A 100-kW, 1800 r/min generator operating at rated load has a terminal voltage of 240 V. if
+ the voltage regulation is 2.3 percent, determine the no-load voltage.
+ Solution
+       VnL  Vrated
+ VR                 100  VnL  Vrated  (1  VR )
+          Vrated
+ VnL  240  (1  0.023)  245.5 volts
+
+
+
+
+                                              86
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+                         Parallel operation of D.C. generators
+ Need for parallel operation of D.C. generator
+ In a d.c. power plant, power is usually supplied from several generators of small ratings
+ connected in parallel instead of from one large generator. This is due to the following
+ reasons:
+ (i) Continuity of service. If a single large generator is used in the power plant, then in case
+ of its breakdown, the whole plant will be shut down. However, if power is supplied from a
+ number of small units operating in parallel, then in case of failure of one unit, the
+ continuity of supply can be maintained by other healthy units.
+ (ii) Efficiency. Generators run most efficiently when loaded to their rated capacity.
+ Electric power costs less per kWh when the generator producing it is efficiently loaded.
+ Therefore, when load demand on power plant decreases, one or more generators can be
+ shut down and the remaining units can be efficiently loaded.
+ (iii) Maintenance and repair. Generators generally require routine maintenance and
+ repair. Therefore, if generators are operated in parallel, the routine or emergency
+ operations can be performed by isolating the affected generator while load is being
+ supplied by other units. This leads to both safety and economy.
+ (iv) Increasing plant capacity. In the modern word of increasing population, the use of
+ electricity is continuously increasing. When added capacity is required, the new unit can be
+ simply paralleled with the old units.
+ (v) Non-availability of single large unit. In many situations, a single unit of desired large
+ capacity may not be available. In that case a number of smaller units can be operated in
+ parallel to meet the load requirement.
+                               Shunt generator in parallel
+ Whenever generators are in parallel, their +ve and –ve terminals are respectively connected
+ to the +ve and –ve side of the bus-bars. These bus-bars are heavy thick capper bars and
+ they acts as +ve and –ve terminals for the whole power station. If the polarity of the
+ incoming generator is not the same as the line polarity, a serious short-circuit will occur
+ when S1 is closed.
+
+
+
+
+                                              87
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+
+
+ The procedure of connected the second generator
+ 1- The armature of generator No.2 is speeded by the prime-mover up to its rated value.
+ 2- Switch S2 is closed.
+ 3- The circuit is completed by putting a voltmeter V across the open switch S1
+ 4- The excitation of the incoming generator No.2 is changed till V reads zero. This mean
+    the terminal voltage is the same as that of generator No.1 or bus-bar voltage.
+ 5- After this, switch S1 is closed and so the incoming machine is parallel to the system.
+ Under this conditions generator No.2 is not taking any load because induced e.m.f is the
+ same as bus-bar voltage and there can be no flow of current between two points at the same
+ potential. The generator is said to be 'floating' on the bus-bar
+                          EV
+ Current supplied by I 
+                            Ra
+ - The induced e.m.f of the incoming generator is increased by strengthening its field and
+    it may be found necessary to weaken the field of generator No.1 to maintain the bus-bar
+    voltage V constant.
+                                       Load Sharing
+ - Shunt generators are most suited for stable parallel operation. Because of their slightly
+   drooping voltage characteristics.
+ - Any tendency on the part of a generator to take more or less than its proper share of
+   load results in certain change of voltage in the system.
+ - For taking a generator out of service, its field is weakened and that of the other
+   generator is increased till the ammeter of the generator to be cleared read zero. After
+   that, its breaker and then the switch are opened thus removing the generator out of
+   service.
+ - It is obvious that if the field of one generator is weakened too much, then power will be
+   delivered to it and it will run in its original direction as a motor, thus driving its prime-
+   mover.
+                                              88
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ - If it is desired that two generators of different kW ratings automatically share a load in
+   proportion to their ratings for example a 100-kW generator is working in parallel with a
+   200 kW generator to supply a total load of (240-kW) then first generator will supply 80
+   kW and the other 160 kW.
+
+
+
+
+ - It is seen for a common terminal voltage (V)
+ The generator No.1 delivers I1 amperes.
+ The generator No.2 delivers I2 amperes.
+ It is seen that generator No.1 having more drooping characteristic delivers less current.
+ - When two generators have the same external characteristics then will sharing the load
+       equally.
+ - Les us discuss the load sharing of two generators which have unequal no-load voltages.
+ E1, E2 = no-load voltages of the two generators
+ Ra1, Ra2 = their armature resistance
+ V = common terminal voltage
+          E V                   E V
+ I a1  1            ,     Ia 2  2
+           R a1                    R a2
+  I a 2 E 2  V R a 1 K 2  2 N 2  V R a1
+                                     
+  I a1 E1  V R a 2 K11 N1  V R a 2
+ From the above equation, it is clear that:
+ - bus-bar voltage can be kept constant
+ - any load can be transferred from 1 to 2 by increasing  2 or N2 or by reducing N1 and 1
+ - N2 and N1 are changed by changing the speed of driving engines
+ - 1 and  2 are changed with the help of regulating shunt field resistance.
+ It should be kept in mind that
+ i- Two parallel shunt generators have equal no load voltages share the load in such ratio
+       that the load current of each machine produces the same drop in each generator.
+ ii- In the case of two parallel generators have unequal no-load voltage, the load currents
+       produce sufficient voltage drops in each so as to keep their terminal voltage the same.
+
+                                             89
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ iii- Paralleled generator with different power ratings but the same voltage regulation will
+      divide any oncoming bus load in direct proportion to their respective power ratings.
+
+                           Compound generators in parallel
+
+ Because of the rising characteristic of the used over compound generators, it is obvious
+ that in the absence of any corrective devices, the parallel operation of such generators is
+ unstable let us suppose that, to begin with, each generator is taking its proper share of load.
+ I1  I f 1R f 1  E1  take more load 
+ difference E1 & V  I1  R L cons tan t  PL1 , PL 2 
+ I 2  I f 2 R f 2  E 2  I 2  unstable  I1 , I 2  I L  I1  G 2  as Motor
+ - Generator No.1 will therefore tend to take the entire load and finally drive generator No.2
+ as a motor.
+ - The circuit breaker of at least one of the two generators will open thus stopping their
+ parallel operation.
+ - For making the parallel operation of over-
+ compound and level-compound generators
+ stable, they are always used with an equalizer
+ bar connected to the armature ends of the series
+ coils of the generators.
+ - The equalizer bar is a conductor of low
+ resistance and its operation is as follows
+ - Suppose that generators No.1 starts taking
+ more than its proper share of load. Its series
+ field current in increased.
+ - But now this increased current passes partly
+ through the series field coil of generator No.1
+ and partly it flows via the equalizer bar through the series field winding of generator No.2
+ - Hence, the generators are affected in a similar manner with the result that generator No.1
+ cannot take the entire load.
+ For maintaining proper division of load from no-load to full load it is essential that
+ i)   The regulation of each generator is the same.
+ ii)  The series field resistances are inversely proportional to the generator rating.
+                              Series generators in parallel
+
+ Suppose E1 and E2 are initially equal
+
+
+
+
+                                              91
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+ Suppose E1 increases slightly so that E1>E2 in that case I1 become greater than I2
+ consequently field of machine 1 is strengthened thus increasing E 1 further 1st the field of
+ machine 2 is weakened thus decreasing E2 further.
+ A final stage is reached when machine 1 supplies not only the whole load but also supplies
+ power to machine 2 which starts running as a motor.
+ E1  I f 1R f 1  I 2  I1  E 2  E1
+ I L  I1  G 2  as motor
+ Obviously, the two machines will form a short-circuited loop and the current rise
+ indefinitely this condition can be prevented by using equalizing bar because of which two
+ similar    machines
+ pass approximately
+ equal currents to
+ the load, the slight
+ difference between
+ the two currents
+ being confined to
+ the loop made by
+ the armatures and
+ the equalizer bar.
+ Characteristic triangle as a tool for solving load distribution problems
+ between paralleled
+ The solution of problems involving load distribution between DC generators in parallel
+ may be accomplished in a straightforward manner by defining a characteristic triangle for
+ each machine, and then using similar triangles to determine a solution.
+ Referring to Figure (66), the characteristic triangle is fixed for a given voltage droop and
+ does not change with changes in the field-rheostat setting. The bus voltage is the terminal
+ voltage (also called output voltage) of the generator.
+ An increase in bus load causes a decrease in bus voltage, as shown by the broken line in
+ Figure (66). The intersection of the new voltage line with the load-voltage characteristic
+ establishes a new triangle similar to the characteristic triangle. From the geometry of
+ similar triangles,
+  Vbus Vnl  Vrated
+        
+   I         I rated
+                   V  Vrated
+ Where VR  nl                    100 %
+                       Vrated
+                      VR
+  Vnl  Vrated             Vrated
+                      100
+
+
+
+                                             91
+D.C. machine                          By Assistant lecture Mohammed Qassim Abbas
+  Electrical Engineering Technical College / Depart of Electrical Power / second Class
+
+
+                       VR
+            Vrated 
+  Vbus                100
+        
+   I           I rated
+
+
+                                                         Figure (66)
+
+ Where VR  voltage regulation.
+       I  change in generator load current (A).
+       Vbus  change in bus due to change in generator load current (V).
+
+
+
+
+                                            92
+
